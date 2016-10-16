@@ -1,5 +1,7 @@
 # Change Log
-All notable changes to the modpack will be documented here.
+All notable changes to the modpack will be documented here as best as possible.
+
+*Note:* Some mods under work in progress versions may include multiple version changes. This is to ensure I know what version to fall back to in the event something is broken/bugged or a mods version gets removed.
 
 ## Version 0.0.2 - Work In Progress
 This changelog is quite extensive, as this update spans almost an entire month. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
