@@ -40,7 +40,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Actually Additions (r65 -> r66)
 - ArmorPlus (7.0.0.0 -> 7.0.1.1.6)
 - Baubles (1.2.1.0 -> 1.3.BETA9 -> 1.3.BETA11)
-- BDLib (1.12.2.12 -> 1.12.2.14 -> 1.12.2.15)
+- BDLib (1.12.2.12 -> 1.12.2.14 -> 1.12.2.15 -> 1.12.2.16)
 - BetterAchievements (0.3.1.32 -> 0.3.1.33 -> 0.3.1.34)
 - Biomes O Plenty (5.0.0.2085 -> 5.0.0.2088 -> 5.0.0.2089)
 - Blood Magic (2.1.0-63 -> 2.1.0-65)
