@@ -46,7 +46,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Botania (326 -> 327 -> 328 -> 329 -> 330 -> 332)
 - Brandon's Core (2.1.0.44 -> 2.1.0.48 -> 2.1.0.51)
 - ChickenChunks (2.1.3.36 -> 2.1.5.40 -> 2.1.5.42)
-- Chisel (0.0.6.46 -> 0.0.6.50 -> 0.0.6.51)
+- Chisel (0.0.6.46 -> 0.0.6.50 -> 0.0.6.51 -> 0.0.6.52)
 - Chisels & Bits (12.1 -> 12.5 -> 12.6)
 - CodeChickenCore (2.1.8.79 -> 2.3.1.82 -> 2.3.4.89)
 - CodeChickenLib
