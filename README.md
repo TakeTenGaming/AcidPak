@@ -1,8 +1,9 @@
 # AcidPak2
 A repository for tracking issues and changes for my modpack, AcidPak2.
 
-### Changelogs
-In the event that I don't remember to update this section, [click here](https://github.com/xlxAciDxlx/AcidPak2/blob/master/CHANGELOG.md) to be taken directly to the most current changelog list.
+## Latest Version
+The latest currently released version of the modpack is ***v0.0.1***.
 
-### Issues
-To report an issue/crash, please visit the [Issues](https://github.com/xlxAciDxlx/AcidPak2/issues) section.
+## Helpful Links
+- [Changelog](https://github.com/xlxAciDxlx/AcidPak2/blob/master/CHANGELOG.md)
+- [Issues](https://github.com/xlxAciDxlx/AcidPak2/issues)
