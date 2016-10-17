@@ -48,7 +48,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Botania (326 -> 327 -> 328 -> 329 -> 330 -> 332)
 - Brandon's Core (2.1.0.44 -> 2.1.0.48 -> 2.1.0.51)
 - ChickenChunks (2.1.3.36 -> 2.1.5.40 -> 2.1.5.42)
-- Chisel (0.0.6.46 -> 0.0.6.50 -> 0.0.6.51 -> 0.0.6.52)
+- Chisel (0.0.6.46 -> 0.0.6.50 -> 0.0.6.51 -> 0.0.6.52 -> 0.0.6.53)
 - Chisels & Bits (12.1 -> 12.5 -> 12.6)
 - CodeChickenCore (2.1.8.79 -> 2.3.1.82 -> 2.3.4.89)
 - CodeChickenLib
@@ -73,7 +73,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Inventory Tweaks (1.61 -> 1.62-dev-64)
 - JourneyMap (5.2.4 -> 5.3.0b2)
 - JustEnoughForestryBees (1.0.3 -> 1.0.4)
-- JustEnoughItems (3.10.0.267 -> 3.12.7.321 -> 3.12.8.323)
+- JustEnoughItems (3.10.0.267 -> 3.12.7.321 -> 3.12.8.323 -> 3.12.8.324)
 - JustEnoughResources (0.5.2.57 -> 0.5.3.62 -> 0.5.3.65)
 - Lycanite's Mobs (1.15.1.3 -> 1.15.1.4)
 - McJtyLib (2.1.3 -> 2.1.4)
