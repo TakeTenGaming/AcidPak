@@ -12,6 +12,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 ### Added
 - AbyssalCraft
 - Actually Additions
+- BiomeTweaker
 - Botania
 - CombatCooldown--
 - Custom Mob Spawner
