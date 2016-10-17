@@ -14,9 +14,9 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Actually Additions
 - BiomeTweaker
 - Botania
-- CombatCooldown--
 - Custom Mob Spawner
 - Extreme Reactors
+- Good ol' PvP
 - Mo' Creatures
 - MultiStorage
 - Natura
