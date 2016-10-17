@@ -1,0 +1,20 @@
+Aggressive mobs
+
+This is the list of the Mobs that can be used as aggresive mobs from Minecraft
+
+Creeper
+Skeleton
+Spider
+Giant
+Zombie
+Slime
+Ghast
+PigZombie
+Enderman
+CaveSpider
+Silverfish
+Blaze
+LavaSlime
+EnderDragon
+WitherBoss
+Witch

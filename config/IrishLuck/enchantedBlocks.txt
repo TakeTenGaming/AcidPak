@@ -1,0 +1,5 @@
+{block:minecraft:furnace,1,0 - enchantment1:50,10 - name:Cooks good meals}
+{block:minecraft:dispenser,1,0 - enchantment1:51,10 - name:Sell-o-matic}
+{block:minecraft:noteblock,1,0 - enchantment1:7,5 - name:Bongo}
+{block:minecraft:piston,1,0 - enchantment1:34,10 - name:Lightning McQueen}
+{block:minecraft:mossy_cobblestone,1,0 - enchantment1:6,10 - name:Not true}

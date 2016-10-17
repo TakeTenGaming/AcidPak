@@ -1,0 +1,47 @@
+Enchantments ID
+
+(This is a reference file with the availables enchantments and theirs IDs - If an enchantment doesn't work as you think, please test it in-game and if it works that way, report the bug to me)
+
+Armour
+
+0 | minecraft:protection | Protection
+1 | minecraft:fire_protection | Fire Protection
+2 | minecraft:feather_falling | Feather Falling
+3 | minecraft:blast_protection | Blast Protection
+4 | minecraft:projectile_protection | Projectile Protection
+5 | minecraft:respiration | Respiration
+6 | minecraft:aqua_affinity | Aqua Affinity
+7 | minecraft:thorns | Thorns
+8 | minecraft:depth_strider | Depth Strider
+9 | minecraft:frost_walker | Frost Walker
+
+34 | minecraft:unbreaking | Unbreaking
+
+Weapons
+
+16 | minecraft:sharpness | Sharpness
+17 | minecraft:smite | Smite
+18 | minecraft:bane_of_arthropods | Bane Of Arthropods
+19 | minecraft:knockback | Knockback
+20 | minecraft:fire_aspect | Fire Aspect
+21 | minecraft:looting | Looting
+
+34 | minecraft:unbreaking | Unbreaking
+
+Tools
+
+32 | minecraft:efficiency | Efficiency
+33 | minecraft:silk_touch | Silk Touch
+34 | minecraft:unbreaking | Unbreaking
+35 | minecraft:fortune | Fortune
+
+Bows
+
+48 | minecraft:power | Power
+49 | minecraft:punch | Punch
+50 | minecraft:flame | Flame
+51 | minecraft:infinity | Infinity
+Other:
+
+61 | minecraft:luck_of_the_sea | Luck of the Sea62 | minecraft:lure | Lure
+70 | minecraft:mending | Mending

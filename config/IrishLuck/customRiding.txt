@@ -1,0 +1,5 @@
+{random:3-6 - ridder1:Pig - ridder2:Pig - ridder3:Pig - ridder4:Pig - ridder5:Pig - ridder6:Pig - ridder7:Pig - ridder8:Pig - ridder9:Pig - ridder10:Pig}
+{random:2-5 - ridder1:Ozelot - ridder2:Pig - ridder3:Sheep - ridder4:Cow - ridder5:Chicken - ridder6:Wolf - ridder7:EntityHorse - ridder8:MushroomCow - ridder9:VillagerGolem - ridder10:Villager}
+{random:5-9 - ridder1:Bat - ridder2:Creeper - ridder3:Zombie - ridder4:Skeleton}
+{random:5-9 - ridder1:Slime - ridder2:Chicken - ridder3:Bat}
+{random:1-2 - ridder1:VillagerGolem - ridder2:Giant - ridder3:Giant - ridder4:Giant - ridder5:Giant}

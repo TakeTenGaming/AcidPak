@@ -1,0 +1,17 @@
+Passive mobs
+
+This is the list of the Mobs that can be used as passive mobs from Minecraft
+
+Bat
+Pig
+Sheep
+Cow
+Chicken
+Squid
+Wolf
+MushroomCow
+SnowMan
+Ozelot
+VillagerGolem
+EntityHorse
+Villager

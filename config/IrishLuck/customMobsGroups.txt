@@ -1,0 +1,5 @@
+{mob1:Pig - name1:Ruthvenvol / mob2:Slime - name2:JonCrisX / mob3:EntityHorse - name3:Ichigo / mob4:Ozelot - name4:Fredo / mob5:Bat - name5:Uniterno / mob6:Chicken - name6:CyaNide / mob7:Cow - name7:OmarWuars / mob8:Sheep - name8:Gutaboy / mob9:Wolf - name9:P / mob10:SnowMan - name10:Analton}
+{mob1:Creeper - name1:I am Creeper Numero 1 / mob2:Creeper - name2:I am Creeper Numero 2 / mob3:Creeper - name3:I am Creeper Numero 3 / mob4:Creeper - name4:I am Creeper Numero 4 / mob5:Creeper - name5:I am Creeper Numero 5}
+{mob1:Giant - name1:Golliath / mob2:SnowMan - name2:David}
+{mob1:Witch - name1:Juliet / mob2:VillagerGolem - name2:Romeo}
+{mob1:Spider - name1:SpiderMan / mob2:VillagerGolem - name2:Iron Man / mob3:Bat - name3:Batman}

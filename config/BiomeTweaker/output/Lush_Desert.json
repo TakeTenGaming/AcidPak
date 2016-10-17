@@ -1,0 +1,133 @@
+
+{
+  "ID": 76,
+  "Name": "Lush Desert",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenLushDesert",
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:hardened_clay",
+  "Filler Block": "minecraft:hardened_clay",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 1.2,
+  "Humidity": 0.5,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "HOT",
+    "SPARSE",
+    "DRY",
+    "SAVANNA",
+    "LUSH",
+    "SANDY"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntitySheep",
+      "Weight": 12,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityCow",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.plainsmobs.entity.EntityMakaAlpha",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.desertmobs.entity.EntityJoust",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.plainsmobs.entity.EntityMaka",
+      "Weight": 1,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySlime",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityEnderman",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "crazypants.enderzoo.entity.EntityConcussionCreeper",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.plainsmobs.entity.EntityKobold",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.desertmobs.entity.EntityGorgomite",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.desertmobs.entity.EntityCryptZombie",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.plainsmobs.entity.EntityVentoraptor",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "lycanite.lycanitesmobs.desertmobs.entity.EntityClink",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
+  "Spawnable Water Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntitySquid",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityBat",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    }
+  ],
+  "Spawn Biome": false,
+  "Tweaked": true
+}

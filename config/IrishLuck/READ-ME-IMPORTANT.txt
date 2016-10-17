@@ -1,0 +1,8 @@
+The files on the Reference folder are just for references on the names that should be used on the config files.
+You can also find the ID (Number) you should use for the enchantments when adding enchanted items/blocks.
+
+On the config files it's very important to make sure you don't leave an empty line at the end
+
+Also, respect the Caps on names of the Entities and respect the spaces, the : and / of the provided examples.
+
+Please any question about the configs Tweet to @MrAmericanMike
