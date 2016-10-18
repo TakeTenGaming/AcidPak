@@ -5,6 +5,8 @@ config/BetterAchievements/*
 
 config/biomesoplenty/biomes/Put biome config files here
 
+config/BiomeTweaker/output/*
+
 config/brandon3055/*
 !config/brandon3055/DraconicEvolution.cfg
 
@@ -12,3 +14,6 @@ config/gendustry/readme.txt
 
 config/IrishLuck/Reference/*
 config/IrishLuck/READ-ME-IMPORTANT.txt
+
+config/JEI/worldSettings.cfg
+config/JEI/*.errored
