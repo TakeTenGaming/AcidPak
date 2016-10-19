@@ -28,6 +28,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Refined Relocation
 - Refined Storage
 - Sonar Core
+- Tinkers' Tool Leveling
 - ZeroCore
 
 ### Removed
@@ -50,7 +51,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Blood Magic (2.1.0-63 -> 2.1.0-65)
 - Bookshelf (1.4.1.322 -> 1.4.2.330)
 - Botania (326 -> 332)
-- Brandon's Core (2.1.0.44 -> 2.1.0.51)
+- Brandon's Core (2.1.0.44 -> 2.1.0.51 -> 2.1.0.55)
 - ChickenChunks (2.1.3.36 -> 2.1.5.42)
 - Chisel (0.0.6.46 -> 0.0.6.53)
 - Chisels & Bits (12.1 -> 12.5 -> 12.6)
@@ -61,18 +62,18 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Cyclic (1.7.8 -> 1.7.14 -> 1.7.15)
 - Dark Utilities (1.1.4.86 -> 1.1.4.88)
 - Deep Resonance (1.2.7 -> 1.2.9)
-- Draconic Evolution (2.0.0.100 -> 2.0.0d.107)
+- Draconic Evolution (2.0.0.100 -> 2.0.0d.107 -> 2.0.0.120)
 - ElecCore (1.5.311 -> 1.6.328)
 - EnderIO (3.0.1.112_beta -> 3.0.1.120_beta)
 - Environmental Tech (0.10.4b -> 0.10.5e)
 - Extra Utilities 2 (Alpha 1.0.1 -> Alpha 1.1.0c)
 - Extreme Reactors (0.4.5.15 -> 0.4.5.17)
-- Forestry (5.2.12.258 -> 5.2.14.279 -> 5.2.14.284)
+- Forestry (5.2.12.258 -> 5.2.14.284 -> 5.2.15.292)
 - Forge (12.18.1.2094 -> 12.18.2.2107)
 - Gender (1.2.5 -> 1.2.7)
 - Gendustry (1.6.4.21 -> 1.6.4.23)
 - Gravestone Mod (1.5.6 -> 1.5.7)
-- Immersive Engineering (0.10-42 -> 0.10-46)
+- Immersive Engineering (0.10-42 -> 0.10-47)
 - IndustrialCraft2 (2.2.6.69 -> 2.2.6.87)
 - Irish Luck (0.2.0 -> 0.3.0)
 - Inventory Tweaks (1.61 -> 1.62-dev-64)
@@ -84,7 +85,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Mantle (1.0.0 -> 1.1.0)
 - McJtyLib (2.1.3 -> 2.1.4)
 - Mo' Creatures (10.0.2 -> 10.0.5 -> 10.0.6)
-- Morpheus (3.1.7 -> 3.1.8)
+- Morpheus (3.1.7 -> 3.1.8 -> 3.1.9)
 - MultiStorage (1.2.3b -> 1.2.4)
 - Nether Core (2.0.2 -> 2.0.3)
 - Pam's HarvestCraft (1.10.2.e -> 1.10.2f)
