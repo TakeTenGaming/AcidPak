@@ -42,7 +42,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Ruins
 
 ### Updated
-- Actually Additions (r65 -> r66)
+- Actually Additions (r65 -> r67)
 - ArmorPlus (7.0.0.0 -> 7.0.1.1.6)
 - Baubles (1.2.1.0 -> 1.3.BETA11)
 - BDLib (1.12.2.12 -> 1.12.2.16)
@@ -68,7 +68,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Environmental Tech (0.10.4b -> 0.10.5e)
 - Extra Utilities 2 (Alpha 1.0.1 -> Alpha 1.1.0c)
 - Extreme Reactors (0.4.5.15 -> 0.4.5.17)
-- Forestry (5.2.12.258 -> 5.2.14.284 -> 5.2.15.292)
+- Forestry (5.2.12.258 -> 5.2.14.284 -> 5.2.15.292 -> 5.2.15.293)
 - Forge (12.18.1.2094 -> 12.18.2.2107)
 - Gender (1.2.5 -> 1.2.7)
 - Gendustry (1.6.4.21 -> 1.6.4.23)
