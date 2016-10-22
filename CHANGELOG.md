@@ -13,11 +13,15 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - AbyssalCraft
 - Actually Additions
 - BiomeTweaker
+- Bloodmoon
 - Botania
 - Custom Mob Spawner
 - Extreme Reactors
 - Flux Networks
 - Good ol' PvP
+- Login Shield
+- MalisisCore
+- MalisisDoors
 - Mo' Creatures
 - MultiStorage
 - Natura
@@ -36,6 +40,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Baubles Stuff
 - Botania Unofficial
 - EZStorage
+- Gender Mod
 - MattDahEpicCore
 - Mekanism
 - Knob Control
@@ -51,7 +56,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Blood Magic (2.1.0-63 -> 2.1.0-65)
 - Bookshelf (1.4.1.322 -> 1.4.2.330)
 - Botania (326 -> 332 -> 333)
-- Brandon's Core (2.1.0.44 -> 2.1.0.51 -> 2.1.0.55)
+- Brandon's Core (2.1.0.44 -> 2.1.0.55)
 - ChickenChunks (2.1.3.36 -> 2.1.5.42)
 - Chisel (0.0.6.46 -> 0.0.6.53)
 - Chisels & Bits (12.1 -> 12.5 -> 12.6)
@@ -60,44 +65,45 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Custom Mob Spawner (3.10.0 -> 3.10.1)
 - Cyberware (beta-0.2.2 -> beta-0.2.3)
 - Cyclic (1.7.8 -> 1.7.14 -> 1.7.15)
-- Dark Utilities (1.1.4.86 -> 1.1.4.88 -> 1.1.5.91)
+- Dark Utilities (1.1.4.86 -> 1.1.5.91)
 - Deep Resonance (1.2.7 -> 1.2.9)
-- Draconic Evolution (2.0.0.100 -> 2.0.0d.107 -> 2.0.0.120)
+- Draconic Evolution (2.0.0.100 -> 2.0.0.120)
 - ElecCore (1.5.311 -> 1.6.328)
 - EnderIO (3.0.1.112_beta -> 3.0.1.120_beta)
 - Environmental Tech (0.10.4b -> 0.10.5e)
 - Extra Utilities 2 (Alpha 1.0.1 -> Alpha 1.1.0c)
 - Extreme Reactors (0.4.5.15 -> 0.4.5.17)
-- Forestry (5.2.12.258 -> 5.2.14.284 -> 5.2.15.292 -> 5.2.15.293 -> 5.2.15.295)
+- Forestry (5.2.12.258 -> 5.2.15.295)
 - Forge (12.18.1.2094 -> 12.18.2.2107)
 - Gender (1.2.5 -> 1.2.7)
 - Gendustry (1.6.4.21 -> 1.6.4.23)
 - Gravestone Mod (1.5.6 -> 1.5.7)
 - Immersive Engineering (0.10-42 -> 0.10-47)
 - IndustrialCraft2 (2.2.6.69 -> 2.2.6.87)
-- Irish Luck (0.2.0 -> 0.3.0)
+- Irish Luck (0.2.0 -> 0.3.2)
 - Inventory Tweaks (1.61 -> 1.62-dev-64)
 - JourneyMap (5.2.4 -> 5.3.0b2)
 - JustEnoughForestryBees (1.0.3 -> 1.0.4)
-- JustEnoughItems (3.10.0.267 -> 3.12.8.325)
+- JustEnoughItems (3.10.0.267 -> 3.12.8.326)
 - JustEnoughResources (0.5.2.57 -> 0.5.3.65)
 - Lycanite's Mobs (1.15.1.3 -> 1.15.1.4)
 - Mantle (1.0.0 -> 1.1.0)
-- McJtyLib (2.1.3 -> 2.1.4 -> 2.2.0)
-- Mo' Creatures (10.0.2 -> 10.0.5 -> 10.0.6)
-- Morpheus (3.1.7 -> 3.1.8 -> 3.1.9)
+- McJtyLib (2.1.3 -> 2.2.0)
+- Mo' Creatures (10.0.2 -> 10.0.6)
+- Morpheus (3.1.7 -> 3.1.9)
 - MultiStorage (1.2.3b -> 1.2.4)
+- Natura (4.0.0.85 -> 4.0.0.86)
 - Nether Core (2.0.2 -> 2.0.3)
-- Pam's HarvestCraft (1.10.2.e -> 1.10.2f -> 1.10.2g)
+- Pam's HarvestCraft (1.10.2.e -> 1.10.2g)
 - Prefab (1.1.1.2 -> 1.1.1.4)
 - Refined Storage (1.1.1 -> 1.1.3)
-- RFTools (5.25 -> 5.26 -> 5.54)
-- RFTools Control (1.2.0 -> 1.4.0 -> 1.5.0)
+- RFTools (5.25 -> 5.55)
+- RFTools Control (1.2.0 -> 1.5.0)
 - RFTools Dimensions (4.40 -> 4.43)
 - ShetiPhianCore (3.3.1 -> 3.3.2)
 - Soul Shards: The Old Way (2.6.3-43 -> 2.6.4-44)
 - TheDragonLib (1.0.2.0 -> 1.0.3.0)
-- Tinker's Construct (2.5.2 -> 2.5.6)
+- Tinker's Construct (2.5.2 -> 2.5.6 -> 2.5.6a)
 - ValkyrieLib (0.10.4b -> 0.10.5d)
 - What are We Looking At? (Wawla) (2.3.0.206 -> 2.3.1.212)
 - wuestUtilities (7 -> 9)
