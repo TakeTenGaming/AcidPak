@@ -76,7 +76,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Extra Utilities 2 (Alpha 1.0.1 -> Alpha 1.2.0)
 - Extreme Reactors (0.4.5.15 -> 0.4.5.18)
 - Forestry (5.2.12.258 -> 5.2.15.296)
-- Forge (12.18.1.2094 -> 12.18.2.2111)
+- Forge (12.18.1.2094 -> 12.18.2.2114)
 - Gender (1.2.5 -> 1.2.7)
 - Gendustry (1.6.4.21 -> 1.6.4.23)
 - Gravestone Mod (1.5.6 -> 1.5.7)
