@@ -1,8 +1,6 @@
 # AcidPak2
 A repository for tracking issues and changes for my modpack, AcidPak2.
 
-### 2.1
-
 ## Latest Version
 The latest currently released version of the modpack is ***v0.0.1***.
 
