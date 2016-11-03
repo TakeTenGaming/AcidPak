@@ -36,6 +36,7 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - ZeroCore
 
 ### Removed
+- ArmorPlus
 - Auto Ore Dictionary Converter
 - Baubles Stuff
 - Botania Unofficial
@@ -49,7 +50,6 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 ### Updated
 - AbyssalCraft (1.9.3-pre-1 -> 1.9.3.4)
 - Actually Additions (r65 -> r69)
-- ArmorPlus (7.0.0.0 -> 7.0.1.1.6)
 - Baubles (1.2.1.0 -> 1.3.0)
 - BDLib (1.12.2.12 -> 1.12.2.17)
 - BetterAchievements (0.3.1.32 -> 0.3.1.34)
