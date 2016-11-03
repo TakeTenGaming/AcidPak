@@ -6,6 +6,18 @@
       "meta": 0,
       "focusColor": "white",
       "weight": 4
+    },
+    {
+      "id": "mysticalagriculture:inferium_ore",
+      "meta": 0,
+      "focusColor": "green",
+      "weight": 6
+    },
+    {
+      "id": "mysticalagriculture:prosperity_ore",
+      "meta": 0,
+      "focusColor": "light_gray",
+      "weight": 4
     }
   ],
   "oreDict": [
@@ -228,6 +240,16 @@
       "oreName": "oreTungsten",
       "focusColor": "black",
       "weight": 8
+    },
+    {
+      "oreName": "oreOsmium",
+      "focusColor": "light_gray",
+      "weight": 8
+    },
+    {
+      "oreName": "oreSalt",
+      "focusColor": "white",
+      "weight": 3
     }
   ]
 }
