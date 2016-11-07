@@ -3,10 +3,13 @@ All notable changes to the modpack will be documented here as best as possible.
 
 *Note:* Some mods under work in progress versions may include multiple version changes. This is to ensure I know what version to fall back to in the event something is broken/bugged or a mods version gets removed.
 
+## Version 1.0.0 - The Gold Release
+
 ## Version 0.0.2 - Work In Progress
-This changelog is quite extensive, as this update spans almost an entire month. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
+This changelog is quite extensive as this update spans almost two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
 
 ### Note
+- *Lycanite's Mobs* is currently disabled due to many casting bugs/crashes that Lycanite is aware of and is working to fix. The pack will be updated to reenable the mod once a fix is out.
 - *Placemod* will not currently generate structures as none have been included. This is intentional as I'd like to make a few of my own as well as customize the ones that generate, and possibly include fan-made submissions. See [Issue #7](https://github.com/xlxAciDxlx/AcidPak2/issues/7) for more information!
 
 ### Added
@@ -14,25 +17,24 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - Actually Additions
 - Applied Energistics 2
 - BiomeTweaker
-- Bloodmoon
 - Botania
 - Custom Mob Spawner
+- EnderStorage
 - Extreme Reactors
 - Flux Networks
 - Good ol' PvP
 - MalisisCore
 - MalisisDoors
 - Mo' Creatures
-- MultiStorage
 - Natura
 - NotEnoughWands
 - p455w0rd's Things
 - Placemod
 - QuantumFlux
 - Refined Relocation
-- Refined Storage
 - Sonar Core
 - Tinkers' Tool Leveling
+- Translocators
 - ZeroCore
 
 ### Removed
@@ -101,7 +103,6 @@ This changelog is quite extensive, as this update spans almost an entire month. 
 - McMultipart (1.2.0 -> 1.3.0)
 - Mo' Creatures (10.0.2 -> 10.0.6)
 - Morpheus (3.1.7 -> 3.1.9)
-- MultiStorage (1.2.3b -> 1.2.5)
 - Natura (4.0.0.85 -> 4.0.0.87)
 - Nether Core (2.0.2 -> 2.0.3)
 - Not Enough Wands (1.3.8 -> 1.4.0)
