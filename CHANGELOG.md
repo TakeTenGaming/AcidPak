@@ -6,7 +6,7 @@ All notable changes to the modpack will be documented here as best as possible.
 ## Version 1.0.0 - The Gold Release
 
 ## Version 0.0.2 - Work In Progress
-This changelog is quite extensive as this update spans almost two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
+This changelog is quite extensive as this update spans two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
 
 ### Note
 - *Lycanite's Mobs* is currently disabled due to many casting bugs/crashes that Lycanite is aware of and is working to fix. The pack will be updated to reenable the mod once a fix is out.
@@ -58,12 +58,12 @@ This changelog is quite extensive as this update spans almost two entire months.
 - Baubles (1.2.1.0 -> 1.3.2)
 - BDLib (1.12.2.12 -> 1.12.2.17)
 - BetterAchievements (0.3.1.32 -> 0.3.2.35)
-- Biomes O Plenty (5.0.0.2085 -> 5.0.0.2091)
+- Biomes O Plenty (5.0.0.2085 -> 5.0.0.2093)
 - Blood Magic (2.1.0-63 -> 2.1.0-66)
-- Bookshelf (1.4.1.322 -> 1.4.2.334)
+- Bookshelf (1.4.1.322 -> 1.4.2.335)
 - Botania (326 -> 337)
 - Brandon's Core (2.1.0.44 -> 2.1.1.61)
-- Cavern (1.1.1 -> 1.4.2)
+- Cavern (1.1.1 -> 1.5.1)
 - ChickenChunks (2.1.3.36 -> 2.1.5.42)
 - Chisel (0.0.6.46 -> 0.0.7.73)
 - Chisels & Bits (12.1 -> 12.7)
@@ -72,9 +72,9 @@ This changelog is quite extensive as this update spans almost two entire months.
 - Custom Mob Spawner (3.10.0 -> 3.10.1)
 - Cyberware (beta-0.2.2 -> beta-0.2.4)
 - Cyclic (1.7.8 -> 1.8.2)
-- Dark Utilities (1.1.4.86 -> 1.1.5.96)
+- Dark Utilities (1.1.4.86 -> 1.1.5.98)
 - Deep Resonance (1.2.7 -> 1.2.9)
-- Draconic Evolution (2.0.0.100 -> 2.0.2.134)
+- Draconic Evolution (2.0.0.100 -> 2.0.3.137)
 - ElecCore (1.5.311 -> 1.6.328)
 - EnderCore (0.4.1.56 -> 0.4.1.58)
 - EnderIO (3.0.1.112_beta -> 3.0.1.128_beta)
@@ -82,10 +82,10 @@ This changelog is quite extensive as this update spans almost two entire months.
 - Environmental Tech (0.10.4b -> 0.10.5g)
 - Extra Utilities 2 (Alpha 1.0.1 -> Alpha 1.2.2)
 - Extreme Reactors (0.4.5.15 -> 0.4.5.19)
-- Forestry (5.2.12.258 -> 5.2.16.319)
+- Forestry (5.2.12.258 -> 5.2.16.321)
 - Forge (12.18.1.2094 -> 12.18.2.2122)
 - Gendustry (1.6.4.21 -> 1.6.4.24)
-- Gravestone Mod (1.5.6 -> 1.5.7)
+- Gravestone Mod (1.5.6 -> 1.5.9)
 - Immersive Engineering (0.10-42 -> 0.10-48)
 - IndustrialCraft2 (2.2.6.69 -> 2.2.6.87)
 - Inventory Tweaks (1.62-dev-64 -> 1.62-dev-66)
@@ -94,7 +94,7 @@ This changelog is quite extensive as this update spans almost two entire months.
 - JourneyMap (5.2.4 -> 5.3.0b2)
 - JustEnoughForestryBees (1.0.3 -> 1.0.4)
 - JustEnoughItems (3.10.0.267 -> 3.13.0.360)
-- JustEnoughResources (0.5.2.57 -> 0.5.4.68)
+- JustEnoughResources (0.5.2.57 -> 0.5.4.71)
 - LootBags (2.1.3 -> 2.2.1)
 - LunatriusCore (1.1.2.36 -> 1.1.2.38)
 - Lycanite's Mobs (1.15.1.3 -> 1.15.1.4)
@@ -103,7 +103,7 @@ This changelog is quite extensive as this update spans almost two entire months.
 - McMultipart (1.2.0 -> 1.3.0)
 - Mo' Creatures (10.0.2 -> 10.0.6)
 - Morpheus (3.1.7 -> 3.1.9)
-- Natura (4.0.0.85 -> 4.0.0.87)
+- Natura (4.0.0.85 -> 4.0.0.93)
 - Nether Core (2.0.2 -> 2.0.3)
 - Not Enough Wands (1.3.8 -> 1.4.0)
 - Pam's HarvestCraft (1.10.2.e -> 1.10.2h)
