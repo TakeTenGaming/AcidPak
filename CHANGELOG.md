@@ -38,7 +38,6 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - ZeroCore
 
 ### Removed
-- ArmorPlus
 - Auto Ore Dictionary Converter
 - Baubles Stuff
 - Botania Unofficial
@@ -55,7 +54,8 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - AbyssalCraft (1.9.3-pre-1 -> 1.9.3.4)
 - Actually Additions (r65 -> r70)
 - Applied Energistics 2 (Alpha 3 -> Alpha 5)
-- Baubles (1.2.1.0 -> 1.3.2)
+- ArmorPlus (7.0.1.1.6 -> 8.0.1.7)
+- Baubles (1.2.1.0 -> 1.3.3)
 - BDLib (1.12.2.12 -> 1.12.2.17)
 - BetterAchievements (0.3.1.32 -> 0.3.2.35)
 - Biomes O Plenty (5.0.0.2085 -> 5.0.0.2093)
@@ -71,7 +71,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - CodeChickenLib (2.4.2.101 -> 2.4.3.124)
 - Custom Mob Spawner (3.10.0 -> 3.10.1)
 - Cyberware (beta-0.2.2 -> beta-0.2.4)
-- Cyclic (1.7.8 -> 1.8.2)
+- Cyclic (1.7.8 -> 1.8.3)
 - Dark Utilities (1.1.4.86 -> 1.1.5.98)
 - Deep Resonance (1.2.7 -> 1.2.9)
 - Draconic Evolution (2.0.0.100 -> 2.0.3.137)
@@ -82,8 +82,8 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - Environmental Tech (0.10.4b -> 0.10.5g)
 - Extra Utilities 2 (Alpha 1.0.1 -> Alpha 1.2.2)
 - Extreme Reactors (0.4.5.15 -> 0.4.5.19)
-- Forestry (5.2.12.258 -> 5.2.16.321)
-- Forge (12.18.1.2094 -> 12.18.2.2122)
+- Forestry (5.2.12.258 -> 5.2.16.322)
+- Forge (12.18.1.2094 -> 12.18.2.2124)
 - Gendustry (1.6.4.21 -> 1.6.4.24)
 - Gravestone Mod (1.5.6 -> 1.5.9)
 - Immersive Engineering (0.10-42 -> 0.10-48)
@@ -93,7 +93,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - Inventory Tweaks (1.61 -> 1.62-dev-64)
 - JourneyMap (5.2.4 -> 5.3.0b2)
 - JustEnoughForestryBees (1.0.3 -> 1.0.4)
-- JustEnoughItems (3.10.0.267 -> 3.13.0.360)
+- JustEnoughItems (3.10.0.267 -> 3.13.2.363)
 - JustEnoughResources (0.5.2.57 -> 0.5.4.71)
 - LootBags (2.1.3 -> 2.2.1)
 - LunatriusCore (1.1.2.36 -> 1.1.2.38)
@@ -118,6 +118,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - ShetiPhianCore (3.3.1 -> 3.3.3)
 - Soul Shards: The Old Way (2.6.3-43 -> 2.6.5-45)
 - Storage Drawers (3.2.7 -> 3.4.2)
+- Tesla (1.2.1.49 -> 1.2.1.50)
 - TheDragonLib (1.0.2.0 -> 1.0.3.0)
 - Tinker's Construct (2.5.2 -> 2.5.6 -> 2.5.6b)
 - Tinker Tool Leveling (0.2.0 -> 1.0.1)
