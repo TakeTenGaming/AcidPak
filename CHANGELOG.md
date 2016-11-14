@@ -9,6 +9,7 @@ All notable changes to the modpack will be documented here as best as possible.
 This changelog is quite extensive as this update spans two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
 
 ### Note
+- *DatMod* is my first released mod and is currently in alpha. Some things may be buggy until I get a few more releases out.
 - *Lycanite's Mobs* is currently disabled due to many casting bugs/crashes that Lycanite is aware of and is working to fix. The pack will be updated to reenable the mod once a fix is out.
 - *Placemod* will not currently generate structures as none have been included. This is intentional as I'd like to make a few of my own as well as customize the ones that generate, and possibly include fan-made submissions. See [Issue #7](https://github.com/xlxAciDxlx/AcidPak2/issues/7) for more information!
 
@@ -19,6 +20,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - BiomeTweaker
 - Botania
 - Custom Mob Spawner
+- DatMod
 - EnderStorage
 - Extreme Reactors
 - Flux Networks
@@ -55,11 +57,11 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - Actually Additions (r65 -> r71)
 - AppleCore (2.0.1 -> 2.1.0)
 - Applied Energistics 2 (Alpha 3 -> Alpha 6)
-- ArmorPlus (7.0.1.1.6 -> 8.0.5.11)
+- ArmorPlus (7.0.1.1.6 -> 8.2.0.1)
 - Baubles (1.2.1.0 -> 1.3.3)
 - BDLib (1.12.2.12 -> 1.12.2.17)
 - BetterAchievements (0.3.1.32 -> 0.3.2.35)
-- Biomes O Plenty (5.0.0.2085 -> 5.0.0.2093)
+- Biomes O Plenty (5.0.0.2085 -> 5.0.0.2094)
 - Blood Magic (2.1.0-63 -> 2.1.0-66)
 - Bookshelf (1.4.1.322 -> 1.4.2.335)
 - Botania (326 -> 337)
@@ -79,7 +81,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - ElecCore (1.5.311 -> 1.6.333)
 - EnderCore (0.4.1.56 -> 0.4.1.58)
 - EnderIO (3.0.1.112_beta -> 3.0.1.128_beta)
-- EnderTanks (1.4.2 -> 1.4.3)
+- EnderTanks (1.4.2 -> 1.4.4)
 - Environmental Tech (0.10.4b -> 0.10.5h)
 - Extra Utilities 2 (Alpha 1.0.1 -> Alpha 1.2.2)
 - Extreme Reactors (0.4.5.15 -> 0.4.5.19)
@@ -88,14 +90,14 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - Gendustry (1.6.4.21 -> 1.6.4.25)
 - Gravestone Mod (1.5.6 -> 1.5.9)
 - Immersive Engineering (0.10-42 -> 0.10-48)
-- IndustrialCraft2 (2.2.6.69 -> 2.2.6.87)
+- IndustrialCraft2 (2.2.6.69 -> 2.2.6.105)
 - Inventory Tweaks (1.62-dev-64 -> 1.62-dev-66)
 - Irish Luck (0.2.0 -> 0.3.2)
 - Inventory Tweaks (1.61 -> 1.62-dev-64)
 - JourneyMap (5.2.4 -> 5.3.0b2)
 - JustEnoughForestryBees (1.0.3 -> 1.0.4)
-- JustEnoughItems (3.10.0.267 -> 3.13.3.370)
-- JustEnoughResources (0.5.2.57 -> 0.5.6.80)
+- JustEnoughItems (3.10.0.267 -> 3.13.3.372)
+- JustEnoughResources (0.5.2.57 -> 0.5.6.84)
 - LootBags (2.1.3 -> 2.2.2)
 - LunatriusCore (1.1.2.36 -> 1.1.2.38)
 - Lycanite's Mobs (1.15.1.3 -> 1.15.1.4)
@@ -113,12 +115,12 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - QuantumFlux (2.0.7 -> 2.0.9)
 - RebornCore (2.7.3.46 -> 2.8.1.64)
 - Reliquary (1.3.3.571 -> 1.3.3.585)
-- RFTools (5.25 -> 5.59)
+- RFTools (5.25 -> 5.60)
 - RFTools Control (1.2.0 -> 1.5.2)
 - RFTools Dimensions (4.40 -> 4.45)
-- ShetiPhianCore (3.3.1 -> 3.3.3)
-- Soul Shards: The Old Way (2.6.3-43 -> 2.6.5-45)
-- Storage Drawers (3.2.7 -> 3.4.3)
+- ShetiPhianCore (3.3.1 -> 3.3.4)
+- Soul Shards: The Old Way (2.6.3-43 -> 2.6.6-46)
+- Storage Drawers (3.2.7 -> 3.4.4)
 - Tesla (1.2.1.49 -> 1.2.1.50)
 - TheDragonLib (1.0.2.0 -> 1.0.3.0)
 - Tinker's Construct (2.5.2 -> 2.5.6 -> 2.5.6b)
