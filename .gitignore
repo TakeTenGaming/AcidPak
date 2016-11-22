@@ -1,19 +1,27 @@
+# Ignore ArmorPlus folder
 config/armorplus/*
 
+# Ignore BetterAchievements folder
 config/BetterAchievements/*
 !config/BetterAchievements/BetterAchievements.cfg
 
+# Ignore Biomes O Plenty text file
 config/biomesoplenty/biomes/Put biome config files here
 
+# Ignore BiomeTweaker output files, only needed for development
 config/BiomeTweaker/output/*
 
+# Ignore Brandon3055 folder, but not DraconicEvolution config
 config/brandon3055/*
 !config/brandon3055/DraconicEvolution.cfg
 
+# Ignore Gendustry readme
 config/gendustry/readme.txt
 
+# Ignore Irish Luck dev things
 config/IrishLuck/Reference/*
 config/IrishLuck/READ-ME-IMPORTANT.txt
 
+# Ignore JEI internal files
 config/JEI/worldSettings.cfg
 config/JEI/*.errored
