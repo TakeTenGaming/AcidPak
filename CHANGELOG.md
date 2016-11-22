@@ -35,6 +35,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - QuantumFlux
 - Refined Relocation
 - Sonar Core
+- Sound Filters
 - Tinkers' Tool Leveling
 - Translocators
 - ZeroCore
