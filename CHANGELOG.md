@@ -1,11 +1,10 @@
 # Change Log
 All notable changes to the modpack will be documented here as best as possible.
 
-*Note:* Some mods under work in progress versions may include multiple version changes. This is to ensure I know what version to fall back to in the event something is broken/bugged or a mods version gets removed.
-
 ## Version 1.0.0 - The Gold Release
+The first official release!
 
-## Version 0.0.2 - Work In Progress
+## Version [0.0.2](https://minecraft.curseforge.com/projects/acidpak-2/files/2348023) - November 22nd, 2016
 This changelog is quite extensive as this update spans two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
 
 ### Note
