@@ -4,6 +4,18 @@ All notable changes to the modpack will be documented here as best as possible.
 ## Version 1.0.0 - The Gold Release
 The first official release!
 
+## Version [0.0.3](https://minecraft.curseforge.com/projects/acidpak-2/files/2348454) - November 23rd, 2016
+### Note
+- *Lycanite's Mobs* has been re-enabled due to a fix release being made.
+
+### Updated
+- AbyssalCraft (1.9.3.7 -> 1.9.3.8)
+- Actually Additions (75 -> 79)
+- Cavern (1.5.3 -> 1.5.4)
+- JourneyMap (5.3.0b2 -> 5.3.0)
+- JustEnoughItems (3.13.3.382 -> 3.13.3.383)
+- Lycanite's Mobs (1.15.1.4 -> 1.15.1.5)
+
 ## Version [0.0.2](https://minecraft.curseforge.com/projects/acidpak-2/files/2348023) - November 22nd, 2016
 This changelog is quite extensive as this update spans two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
 
