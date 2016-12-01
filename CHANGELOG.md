@@ -6,9 +6,15 @@ All notable changes to the modpack will be documented here as best as possible.
 - Akashic Tome
 - CompatLayer (McJtyLib dependency)
 - Iron Backpacks
+- Realistic Terrain Generation
+
+### Changes
+- Adjusted configs: Applied Energistics 2, Blood Magic, Cavern, Chisel & Bits, Cyberware, Cyclic Magic, EnderIO, Extra Utilities 2, Placemod, ProjectE, Realistic Terrain Generation, RebornCore, SoundFilters
+- Disabled config that made Biomes O Plenty the default terrain generator
+- Fixed VeinMiner not using Sneak key for activation
 
 ### Updated
-- Actually Additions (79 -> 84)
+- Actually Additions (79 -> 85)
 - Applied Energistics (rv4-alpha-6 -> rv4-alpha-7)
 - Baubles (1.3.5 -> 1.3.6)
 - Better Achievements (0.3.2.35 -> 0.3.2.39)
@@ -20,7 +26,7 @@ All notable changes to the modpack will be documented here as best as possible.
 - Chisels & Bits (12.7 -> 12.8)
 - CompatLayer (0.0.17alpha -> 0.0.39beta)
 - Cyclic (1.8.12 -> 1.8.13)
-- DatMod (1.2.0 -> 1.3.0)
+- DatMod (1.2.0 -> 1.4.0)
 - Deep Resonance (1.3.1 -> 1.3.1beta1)
 - EnderIO (3.0.1.136_beta -> 3.0.1.138_beta)
 - EnderTanks (1.4.6 -> 1.4.8)

@@ -24,4 +24,6 @@ config/IrishLuck/READ-ME-IMPORTANT.txt
 
 # Ignore JEI internal files
 config/JEI/worldSettings.cfg
-config/JEI/*.errored
+
+# Ignore ProjectE Example files
+config/ProjectE/customConversions/example.json
