@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to the modpack will be documented here as best as possible.
 
-## Version 0.0.4 - Work In Progress
+## Version (0.0.4)[https://minecraft.curseforge.com/projects/acidpak-2/files/2353408] - December 7th, 2016
 ### Added
 - Akashic Tome
 - CompatLayer (McJtyLib dependency)
@@ -14,8 +14,9 @@ All notable changes to the modpack will be documented here as best as possible.
 - Fixed VeinMiner not using Sneak key for activation
 
 ### Updated
-- Actually Additions (79 -> 85)
-- Applied Energistics (rv4-alpha-6 -> rv4-alpha-7)
+- Actually Additions (79 -> 88)
+- Applied Energistics (rv4-alpha-6 -> rv4-alpha-8)
+- ArmorPlus (8.2.2.3 -> 8.2.3.4)
 - Baubles (1.3.5 -> 1.3.6)
 - Better Achievements (0.3.2.35 -> 0.3.2.39)
 - Blood Magic (2.1.0-66 -> 2.1.0-68)
@@ -24,16 +25,19 @@ All notable changes to the modpack will be documented here as best as possible.
 - Chameleon (2.1.9 -> 2.2.0)
 - Chisel (0.0.7.3 -> 0.0.7.7)
 - Chisels & Bits (12.7 -> 12.8)
-- CompatLayer (0.0.17alpha -> 0.0.39beta)
-- Cyclic (1.8.12 -> 1.8.13)
+- CompatLayer (0.0.17alpha -> 0.1.1)
+- Cyclic (1.8.12 -> 1.8.14)
 - DatMod (1.2.0 -> 1.4.0)
-- Deep Resonance (1.3.1 -> 1.3.1beta1)
+- Deep Resonance (1.3.1 -> 1.4.0)
+- ElecCore (1.6.345 -> 1.6.360)
 - EnderIO (3.0.1.136_beta -> 3.0.1.138_beta)
 - EnderTanks (1.4.6 -> 1.4.8)
-- Extra Utilities 2 (1.1.0 -> 1.1.1)
-- Forestry (5.2.16.327 -> 5.2.16.330)
-- Forge (12.18.2.2155 -> 12.18.2.2171)
-- Immersive Engineering (0.10-50 -> 0.10-51)
+- Extra Utilities 2 (1.1.0 -> 1.1.2)
+- Extreme Reactors (0.4.5.18 -> 0.4.5.20)
+- Forestry (5.2.16.327 -> 5.2.16.331)
+- Forge (12.18.2.2155 -> 12.18.2.2185)
+- Gendustry (1.6.4.25 -> 1.6.5.26)
+- Immersive Engineering (0.10-50 -> 0.10-52)
 - Iron Backpacks (2.2.17 -> 2.2.19)
 - JourneyMap (5.3.0 -> 5.3.1)
 - JustEnoughItems (3.13.3.383 -> 3.13.6.387)
@@ -41,14 +45,17 @@ All notable changes to the modpack will be documented here as best as possible.
 - MalisisCore (4.2.7 -> 4.2.8)
 - MalisisDoors (5.1.4 -> 5.1.5)
 - Mantle (1.1.1 -> 1.1.2)
-- McJtyLib (2.2.0 -> 2.2.0beta1)
+- McJtyLib (2.2.0 -> 2.3.1)
+- p455w0rd's Things (1.2.9 -> 1.2.16)
+- Realistic Terrain Generation (4.1.1.8 -> 4.1.1.9-SNAPSHOT-1)
 - RebornCore (2.8.1.64 -> 2.8.3.71)
-- RFTools (5.62 -> 5.62beta1)
-- RFTools Control (1.5.2 -> 1.5.2beta1)
-- RFTools Dimensions (4.45 -> 4.45beta1)
-- StorageDrawers (3.4.7 -> 3.5.5)
+- RFTools (5.62 -> 5.70)
+- RFTools Control (1.5.2 -> 1.6.1)
+- RFTools Dimensions (4.45 -> 4.50)
+- StorageDrawers (3.4.7 -> 3.5.7)
 - Tinker's Construct (2.5.6b -> 2.6.0)
 - TrashSlot (6.3.6 -> 6.3.7)
+- ZeroCore (0.0.8.1 -> 0.0.8.2)
 
 ## Version [0.0.3](https://minecraft.curseforge.com/projects/acidpak-2/files/2348454) - November 23rd, 2016
 ### Note

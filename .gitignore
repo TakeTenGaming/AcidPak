@@ -1,3 +1,6 @@
+# Ignore Internal Files
+TODO.md
+
 # Ignore ArmorPlus folder
 config/armorplus/*
 
