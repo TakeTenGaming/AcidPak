@@ -1,7 +1,83 @@
 # Change Log
 All notable changes to the modpack will be documented here as best as possible.
 
-## Version (0.0.4)[https://minecraft.curseforge.com/projects/acidpak-2/files/2353408] - December 7th, 2016
+## 1.11 Releases
+*No releases at this time.*
+
+## 1.10.2 Releases
+### Version (0.0.5)[] - Work In Progress
+#### Added
+- AE2 Stuff
+- CraftTweaker
+- CustomMainMenu
+- Dynamic Surroundings
+- ResourceLoader
+
+### Removed
+- TESLA
+
+### Notes
+- *CustomMainMenu* and *ResourceLoader* are currently not configured, but will be before the final modpack release (*v1.0.0*).
+
+### Changes
+- Disabled undesired *Biomes O Plenty* biomes
+- Configured some Vanilla biomes to never generate (testing)
+- Disabled *Actually Additions* manual from spawning in a Loot Bag
+- Modified *DatMod* config to not automatically give the Magnet to players
+- Modified *JourneyMap* to use large dots rather than small icons as it broke map displays
+
+### Updated
+- AbyssalCraft (1.9.3.8 -> 1.9.3.9)
+- Actually Additions (r88 -> r90)
+- Applied Energistics 2 (rv4-alpha-8 -> rv4-alpha-9)
+- Baubles (1.3.6 -> 1.3.8)
+- BDLib (1.12.2.18 -> 1.12.2.19)
+- Blood Magic (2.1.0-68 -> 2.1.0-69)
+- Brandon's Core (2.1.1.61 -> 2.1.2.76)
+- Chameleon (2.2.0 -> 2.2.2)
+- ChickenChunks (2.1.5.42 -> 2.2.0.52)
+- Chickens (3.0 -> 4.0)
+- CodeChickenCore (2.3.5.91 -> 2.4.0.100)
+- CodeChickenLib (2.4.3.145 -> 2.5.0.178)
+- CompatLayer (0.1.1 -> 0.1.4)
+- Cyberware (beta-0.2.4 -> beta-0.2.5)
+- Cyclic (1.8.14 -> 1.9.3)
+- Dark Utilities (1.1.6.99 -> 1.1.6.100)
+- Deep Resonance (1.4.0 -> 1.4.1)
+- Draconic Evolution (2.0.3.137 -> 2.0.4.142)
+- Dynamic Surroundings (3.1.0.0BETA -> 3.1.1.0BETA)
+- EnderCore (0.4.1.60 -> 0.4.1.61)
+- EnderIO (3.0.1.138\_beta -> 3.0.1.142\_beta)
+- Ender Storage (2.1.5.84 -> 2.2.0.95)
+- EnderTanks (1.4.8 -> 1.4.9)
+- Extra Utilities 2 (1.1.2 -> 1.1.3a)
+- Extreme Reactors (0.4.5.20 -> 0.4.5.21)
+- Forestry (5.2.16.331 -> 5.2.16.335)
+- Immersive Engineering (0.10-52 -> 0.10-53)
+- IndustrialCraft2 (2.2.6.105-ex110 -> 2.2.6.128-ex110)
+- Iron Backpacks (2.2.19 -> 2.2.20)
+- JourneyMap (5.3.1 -> 5.3.2)
+- JustEnoughItems (3.13.6.387 -> 3.13.6.392)
+- LootBags (2.2.2 -> 2.3.0)
+- MalisisCore (4.2.8 -> 4.2.9)
+- MalisisDoors (5.1.5 -> 5.1.6)
+- Mantle (1.1.2 -> 1.1.3)
+- NotEnoughWands (1.4.0 -> 1.5.2)
+- ProjectE (1.1.0B -> 1.1.1B)
+- Realistic Terrain Generation (4.1.1.9-SNAPSHOT-1 -> 4.1.2.0)
+- RebornCore (2.8.3.71 -> 2.8.4.77)
+- RFTools (5.70 -> 5.71)
+- RFTools Control (1.6.1 -> 1.6.3)
+- RFTools Dimensions (4.50 -> 4.51)
+- p455w0rd's Things (1.2.16 -> 1.2.18)
+- ShetiPhianCore (3.3.5 -> 3.3.6)
+- Soul Shards: The Old Ways (2.6.6-46 -> 2.6.7-48)
+- Storage Drawers (3.5.7 -> 3.5.14)
+- Tinkers Construct (2.6.0 -> 2.6.1)
+- Translocators (2.1.3.34 -> 2.1.3.47)
+- VeinMiner (0.34.1 -> 0.35.1)
+
+## Version (0.0.4)[https://minecraft.curseforge.com/projects/acidpak/files/2353408] - December 7th, 2016
 ### Added
 - Akashic Tome
 - CompatLayer (McJtyLib dependency)
@@ -52,12 +128,12 @@ All notable changes to the modpack will be documented here as best as possible.
 - RFTools (5.62 -> 5.70)
 - RFTools Control (1.5.2 -> 1.6.1)
 - RFTools Dimensions (4.45 -> 4.50)
-- StorageDrawers (3.4.7 -> 3.5.7)
+- Storage Drawers (3.4.7 -> 3.5.7)
 - Tinker's Construct (2.5.6b -> 2.6.0)
 - TrashSlot (6.3.6 -> 6.3.7)
 - ZeroCore (0.0.8.1 -> 0.0.8.2)
 
-## Version [0.0.3](https://minecraft.curseforge.com/projects/acidpak-2/files/2348454) - November 23rd, 2016
+## Version [0.0.3](https://minecraft.curseforge.com/projects/acidpak/files/2348454) - November 23rd, 2016
 ### Note
 - *Lycanite's Mobs* has been re-enabled due to a fix release being made.
 
@@ -69,7 +145,7 @@ All notable changes to the modpack will be documented here as best as possible.
 - JustEnoughItems (3.13.3.382 -> 3.13.3.383)
 - Lycanite's Mobs (1.15.1.4 -> 1.15.1.5)
 
-## Version [0.0.2](https://minecraft.curseforge.com/projects/acidpak-2/files/2348023) - November 22nd, 2016
+## Version [0.0.2](https://minecraft.curseforge.com/projects/acidpak/files/2348023) - November 22nd, 2016
 This changelog is quite extensive as this update spans two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
 
 ### Note
@@ -201,7 +277,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - wuestUtilities (7 -> 10)
 - ZeroCore (0.0.8.0 -> 0.0.8.1)
 
-## Version [0.0.1](https://minecraft.curseforge.com/projects/acidpak-2/files/2333257) - September 30th, 2016
+## Version [0.0.1](https://minecraft.curseforge.com/projects/acidpak/files/2333257) - September 30th, 2016
 ### General
 - Initial CurseForge release
 
