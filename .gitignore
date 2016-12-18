@@ -18,6 +18,9 @@ config/BiomeTweaker/output/*
 config/brandon3055/*
 !config/brandon3055/DraconicEvolution.cfg
 
+# Ignore CustomSpawner folder
+config/CustomSpawner/
+
 # Ignore Gendustry readme
 config/gendustry/readme.txt
 
