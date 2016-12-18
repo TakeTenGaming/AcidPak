@@ -30,3 +30,6 @@ config/JEI/worldSettings.cfg
 
 # Ignore ProjectE Example files
 config/ProjectE/customConversions/example.json
+
+# Ignore Text Editor Settings
+.vscode/settings.json
