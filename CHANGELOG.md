@@ -13,9 +13,6 @@ All notable changes to the modpack will be documented here as best as possible.
 - Dynamic Surroundings
 - ResourceLoader
 
-### Removed
-- TESLA
-
 ### Notes
 - *CustomMainMenu* and *ResourceLoader* are currently not configured, but will be before the final modpack release (*v1.0.0*).
 
