@@ -1,6 +1,9 @@
 # Ignore Internal Files
 TODO.md
 
+# Ignore AE2Stuff folder
+config/AE2Stuff/*
+
 # Ignore ArmorPlus folder
 config/armorplus/*
 

@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to the modpack will be documented here as best as possible.
+All notable changes to both the *1.10.2* and *1.11* versions of the modpack will be documented here.
 
 ## 1.11 Releases
 *No releases at this time.*
@@ -8,20 +8,29 @@ All notable changes to the modpack will be documented here as best as possible.
 ### Version (0.0.5)[] - Work In Progress
 #### Added
 - AE2 Stuff
+- Base Metals
+- BiomeTweaker
 - CraftTweaker
 - CustomMainMenu
 - Dynamic Surroundings
+- Inventory Pets
+- MalisisBlocks
+- MMD OreSpawn
+- p455w0rd's Library
+- Realistic Terrain Generation
 - ResourceLoader
 
-### Notes
-- *CustomMainMenu* and *ResourceLoader* are currently not configured, but will be before the final modpack release (*v1.0.0*).
+### Removed
+- Cavern
+- TESLA
 
 ### Changes
 - Disabled undesired *Biomes O Plenty* biomes
-- Configured some Vanilla biomes to never generate (testing)
 - Disabled *Actually Additions* manual from spawning in a Loot Bag
 - Modified *DatMod* config to not automatically give the Magnet to players
 - Modified *JourneyMap* to use large dots rather than small icons as it broke map displays
+- Configured *NetherCore* to no longer generate ores in the nether
+- Configured *ProjectE* to require a Nether Star instead of diamonds
 
 ### Updated
 - AbyssalCraft (1.9.3.8 -> 1.9.3.9)
@@ -33,23 +42,23 @@ All notable changes to the modpack will be documented here as best as possible.
 - Brandon's Core (2.1.1.61 -> 2.1.2.76)
 - Chameleon (2.2.0 -> 2.2.2)
 - ChickenChunks (2.1.5.42 -> 2.2.0.52)
-- Chickens (3.0 -> 4.0)
+- Chickens (3.0 -> 4.1.1)
 - CodeChickenCore (2.3.5.91 -> 2.4.0.100)
 - CodeChickenLib (2.4.3.145 -> 2.5.0.178)
 - CompatLayer (0.1.1 -> 0.1.4)
-- Cyberware (beta-0.2.4 -> beta-0.2.5)
-- Cyclic (1.8.14 -> 1.9.3)
+- Cyberware (beta-0.2.4 -> beta-0.2.6)
+- Cyclic (1.8.14 -> 1.9.4)
 - Dark Utilities (1.1.6.99 -> 1.1.6.100)
 - Deep Resonance (1.4.0 -> 1.4.1)
 - Draconic Evolution (2.0.3.137 -> 2.0.4.142)
 - Dynamic Surroundings (3.1.0.0BETA -> 3.1.1.0BETA)
 - EnderCore (0.4.1.60 -> 0.4.1.61)
-- EnderIO (3.0.1.138\_beta -> 3.0.1.142\_beta)
-- Ender Storage (2.1.5.84 -> 2.2.0.95)
+- EnderIO (3.0.1.138\_beta -> 3.0.1.144\_beta)
+- Ender Storage (2.1.5.84 -> 2.2.0.96)
 - EnderTanks (1.4.8 -> 1.4.9)
 - Extra Utilities 2 (1.1.2 -> 1.1.3a)
 - Extreme Reactors (0.4.5.20 -> 0.4.5.21)
-- Forestry (5.2.16.331 -> 5.2.16.335)
+- Forestry (5.2.16.331 -> 5.2.16.340)
 - Immersive Engineering (0.10-52 -> 0.10-53)
 - IndustrialCraft2 (2.2.6.105-ex110 -> 2.2.6.128-ex110)
 - Iron Backpacks (2.2.19 -> 2.2.20)
@@ -59,7 +68,9 @@ All notable changes to the modpack will be documented here as best as possible.
 - MalisisCore (4.2.8 -> 4.2.9)
 - MalisisDoors (5.1.5 -> 5.1.6)
 - Mantle (1.1.2 -> 1.1.3)
+- Morpheus (3.1.12 -> 3.1.13)
 - NotEnoughWands (1.4.0 -> 1.5.2)
+- p455w0rd's Things (1.2.16 -> 1.2.23)
 - ProjectE (1.1.0B -> 1.1.1B)
 - Realistic Terrain Generation (4.1.1.9-SNAPSHOT-1 -> 4.1.2.0)
 - RebornCore (2.8.3.71 -> 2.8.4.77)
@@ -69,7 +80,7 @@ All notable changes to the modpack will be documented here as best as possible.
 - p455w0rd's Things (1.2.16 -> 1.2.18)
 - ShetiPhianCore (3.3.5 -> 3.3.6)
 - Soul Shards: The Old Ways (2.6.6-46 -> 2.6.7-48)
-- Storage Drawers (3.5.7 -> 3.5.14)
+- Storage Drawers (3.5.7 -> 3.5.15)
 - Tinkers Construct (2.6.0 -> 2.6.1)
 - Translocators (2.1.3.34 -> 2.1.3.47)
 - VeinMiner (0.34.1 -> 0.35.1)
@@ -85,6 +96,8 @@ All notable changes to the modpack will be documented here as best as possible.
 - Adjusted configs: Applied Energistics 2, Blood Magic, Cavern, Chisel & Bits, Cyberware, Cyclic Magic, EnderIO, Extra Utilities 2, Placemod, ProjectE, Realistic Terrain Generation, RebornCore, SoundFilters
 - Disabled config that made Biomes O Plenty the default terrain generator
 - Fixed VeinMiner not using Sneak key for activation
+- Blacklisted all mod books/manuals from spawning in Loot Bags
+- ProjectE now requires nether star for recipes
 
 ### Updated
 - Actually Additions (79 -> 88)
