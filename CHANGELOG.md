@@ -43,7 +43,7 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 
 ### Updated
 - AbyssalCraft (1.9.3.8 -> 1.9.3.9)
-- Actually Additions (r88 -> r90)
+- Actually Additions (r88 -> r93)
 - Applied Energistics 2 (rv4-alpha-8 -> rv4-alpha-9)
 - Baubles (1.3.6 -> 1.3.8)
 - BDLib (1.12.2.18 -> 1.12.2.19)
