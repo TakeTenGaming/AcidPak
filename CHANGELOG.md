@@ -6,19 +6,19 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 
 ## 1.10.2 Releases
 ### Version (0.0.5)[] - Work In Progress
+#### Notes
+- *FoamFix* is a mod that saves some RAM usage, testing on different setups to measure RAM savings in the pack. Please report your estimated savings on our GitHub (here)[https://github.com/xlxAciDxlx/AcidPak/issues/15]
+- *DenseOres* will be added once it adds an annotation for 1.10 compatibility
+
 #### Added
 - AE2 Stuff
 - Base Metals
 - BiomeTweaker
-- CraftTweaker
-- CustomMainMenu
-- Dynamic Surroundings
+- FoamFix
 - Inventory Pets
 - MalisisBlocks
 - MMD OreSpawn
 - p455w0rd's Library
-- Realistic Terrain Generation
-- ResourceLoader
 
 ### Removed
 - Cavern
@@ -26,11 +26,20 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 
 ### Changes
 - Disabled undesired *Biomes O Plenty* biomes
+- Tuned *AbyssalCraft* biome weights, this should hopefully make them a lot less common
 - Disabled *Actually Additions* manual from spawning in a Loot Bag
 - Modified *DatMod* config to not automatically give the Magnet to players
 - Modified *JourneyMap* to use large dots rather than small icons as it broke map displays
 - Configured *NetherCore* to no longer generate ores in the nether
-- Configured *ProjectE* to require a Nether Star instead of diamonds
+- Configured *ProjectE* to require a Nether Star for recipes
+- Replaced "Plains" Vanilla biome with "Meadow" Biomes O Plenty biome
+- Replaced "Birch Forest" Vanilla biomes with "Mangrove" Biomes O Plenty biome
+- Replaced "Forest" Vanilla biomes with "Boreal Forest" Biomes O Plenty biome
+- Replaced "Extreme Hills" Vanilla biome variants with "Marsh" Biomes O Plenty biomes
+- Replaced "Roofed Forest" Vanilla biome with "Redwood Forest" Biomes O Plenty biome
+- Replaced "Swampland" Vanilla biome with "" Biomes O Plenty biome
+- Replaced larger "Jungle" Vanilla biomes with "Quagmire" Biomes O Plenty biome
+- Improved generation weight of Biomes O Plenty "Mangrove" biome
 
 ### Updated
 - AbyssalCraft (1.9.3.8 -> 1.9.3.9)
@@ -51,14 +60,13 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - Dark Utilities (1.1.6.99 -> 1.1.6.100)
 - Deep Resonance (1.4.0 -> 1.4.1)
 - Draconic Evolution (2.0.3.137 -> 2.0.4.142)
-- Dynamic Surroundings (3.1.0.0BETA -> 3.1.1.0BETA)
 - EnderCore (0.4.1.60 -> 0.4.1.61)
-- EnderIO (3.0.1.138\_beta -> 3.0.1.144\_beta)
+- EnderIO (3.0.1.138\_beta -> 3.0.1.145\_beta)
 - Ender Storage (2.1.5.84 -> 2.2.0.96)
 - EnderTanks (1.4.8 -> 1.4.9)
 - Extra Utilities 2 (1.1.2 -> 1.1.3a)
 - Extreme Reactors (0.4.5.20 -> 0.4.5.21)
-- Forestry (5.2.16.331 -> 5.2.16.340)
+- Forestry (5.2.16.331 -> 5.2.16.345)
 - Immersive Engineering (0.10-52 -> 0.10-53)
 - IndustrialCraft2 (2.2.6.105-ex110 -> 2.2.6.128-ex110)
 - Iron Backpacks (2.2.19 -> 2.2.20)
@@ -71,19 +79,18 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - Morpheus (3.1.12 -> 3.1.13)
 - NotEnoughWands (1.4.0 -> 1.5.2)
 - p455w0rd's Things (1.2.16 -> 1.2.23)
+- Prefab (1.1.1.4 -> 1.1.1.5)
 - ProjectE (1.1.0B -> 1.1.1B)
-- Realistic Terrain Generation (4.1.1.9-SNAPSHOT-1 -> 4.1.2.0)
 - RebornCore (2.8.3.71 -> 2.8.4.77)
-- RFTools (5.70 -> 5.71)
+- RFTools (5.70 -> 5.72)
 - RFTools Control (1.6.1 -> 1.6.3)
 - RFTools Dimensions (4.50 -> 4.51)
-- p455w0rd's Things (1.2.16 -> 1.2.18)
 - ShetiPhianCore (3.3.5 -> 3.3.6)
 - Soul Shards: The Old Ways (2.6.6-46 -> 2.6.7-48)
 - Storage Drawers (3.5.7 -> 3.5.15)
 - Tinkers Construct (2.6.0 -> 2.6.1)
 - Translocators (2.1.3.34 -> 2.1.3.47)
-- VeinMiner (0.34.1 -> 0.35.1)
+- VeinMiner (0.34.1 -> 0.35.2)
 
 ## Version (0.0.4)[https://minecraft.curseforge.com/projects/acidpak/files/2353408] - December 7th, 2016
 ### Added
