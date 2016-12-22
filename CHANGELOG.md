@@ -5,7 +5,7 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 *No releases at this time.*
 
 ## 1.10.2 Releases
-### Version (0.0.5)[] - Work In Progress
+### Version (0.0.5)[https://minecraft.curseforge.com/projects/acidpak/files/2359263] - December 22nd, 2016
 #### Notes
 - *FoamFix* is a mod that saves some RAM usage, testing on different setups to measure RAM savings in the pack. Please report your estimated savings on our GitHub (here)[https://github.com/xlxAciDxlx/AcidPak/issues/15]
 - *DenseOres* will be added once it adds an annotation for 1.10 compatibility
