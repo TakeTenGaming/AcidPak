@@ -5,6 +5,42 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 *No releases at this time.*
 
 ## 1.10.2 Releases
+### Version (0.0.6)[https://minecraft.curseforge.com/projects/acidpak/files/2361383] - December 28th, 2016
+#### Changes
+- Disabled *Irish Luck*'s Irish Dragon
+
+#### Removed
+- AbyssalCraft
+- CraftTweaker
+- QuantumFlux
+- RFTools Control
+
+#### Updated
+- Actually Additons (r93 -> r94)
+- Chisels & Bits (12.8 -> 12.9)
+- CompatLayer (0.1.4 -> 0.1.6)
+- Cyclic (1.9.4 -> 1.9.7)
+- DatMod (1.4.0 -> 1.4.2)
+- Deep Resonance (1.4.1 -> 1.4.2)
+- EnderIO (3.0.1.145\_beta -> 3.0.1.147\_beta)
+- Extreme Reactors (0.4.5.21 -> 0.4.5.22)
+- Forestry (5.2.16.345 -> 5.2.16.346)
+- Flux Networks (1.0.7 -> 1.0.8)
+- Gendustry (1.6.5.26 -> 1.6.5.27)
+- GraveStone Mod (1.5.9 -> 1.5.10)
+- Immersive Engineering (0.10-53 -> 0.10-54)
+- JustEnoughItems (3.13.6.392 -> 3.13.6.393)
+- Natura (4.0.0.93 -> 4.1.0.15)
+- Not Enough Wands (1.5.2 -> 1.5.3)
+- p455w0rd's Library (1.0.2 -> 1.0.3)
+- p455w0rd's Things (1.2.23 -> 1.2.27)
+- Reliquary (1.3.3.585 -> 1.3.3.615)
+- RFTools (5.72 -> 5.75)
+- SonarCore (3.1.6 -> 3.1.7)
+- Storage Drawers (3.5.15 -> 3.5.16)
+- Translocators (2.1.3.47 -> 2.1.3.49)
+- VeinMiner (0.35.2 -> 0.35.3)
+
 ### Version (0.0.5)[https://minecraft.curseforge.com/projects/acidpak/files/2359263] - December 22nd, 2016
 #### Notes
 - *FoamFix* is a mod that saves some RAM usage, testing on different setups to measure RAM savings in the pack. Please report your estimated savings on our GitHub (here)[https://github.com/xlxAciDxlx/AcidPak/issues/15]
