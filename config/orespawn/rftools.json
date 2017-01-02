@@ -1,0 +1,18 @@
+{
+	"dimensions":[
+		{
+			"dimension":"0",
+			"ores":[
+				{
+					"blockID":"rftools:dimensional_shard_ore",
+					"size":2,
+					"variation":1,
+					"frequency":0.5,
+					"minHeight":0,
+					"maxHeight":32,
+					"biomes":[]
+				}
+			]
+		}
+	]
+}

@@ -5,7 +5,51 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 *No releases at this time.*
 
 ## 1.10.2 Releases
-### Version (0.0.6)[https://minecraft.curseforge.com/projects/acidpak/files/2361383] - December 28th, 2016
+### Version [0.0.7](https://minecraft.curseforge.com/projects/acidpak/files/2363500) - Work in Progress
+#### Changes
+- Disabled *Biomes O Plenty* panorama background
+- Tweaked *Lycanite's Mobs* configs to hopefully allow for more vanilla mob spawns
+- Split *OreSpawn* configs into separate files for easier management
+
+#### Added
+- DecoCraft2
+- HWYLA
+- Refined Storage
+
+#### Removed
+- Refined Relocation 2
+- WAILA
+
+#### Updated
+- Actually Additions (r94 -> r97)
+- AppleSkin (1.0.4 -> 1.0.5)
+- Applied Energistics 2 (rv4-alpha-9 -> rv4-alpha-11)
+- ArmorPlus (8.2.3.4 -> 8.2.4.5)
+- Brandon's Core (2.1.2.76 -> 2.1.3.82)
+- Chickens (4.1.1 -> 4.2)
+- CodeChickenLib (2.5.0.178 -> 2.5.1.185)
+- Cyclic (1.9.7 -> 1.9.10)
+- Dark Utilities (1.1.6.100 -> 1.1.6.103)
+- DatMod (1.4.2 -> 1.5.0)
+- Draconic Evolution (2.0.4.142 -> 2.0.5.154)
+- EnderCore (0.4.1.61-beta -> 0.4.1.62-beta)
+- EnderIO (3.0.1.147\_beta -> 3.1.156)
+- Extra Utilities 2 (1.1.3a -> 1.1.3c)
+- Extreme Reactors (0.4.5.22 -> 0.4.5.23)
+- Forestry (5.2.16.346 -> 5.2.16.348)
+- Forge (12.18.3.2185 -> 12.18.3.2202)
+- Flux Networks (1.0.8 -> 1.0.9)
+- Irish Luck (0.3.5 -> 0.3.7)
+- Iron Backpacks (2.2.20 -> 2.2.21)
+- JourneyMap (5.3.2 -> 5.4.0)
+- Just Enough Items (3.13.6.393 -> 3.14.2.401)
+- Natura (4.1.0.15 -> 4.1.0.17)
+- Prefab (1.1.1.5 -> 1.1.1.6)
+- RebornCore (2.8.4.77 -> 2.8.5.79)
+- Refined Relocation (2.1.16 -> 2.1.18)
+- Sonar Core (3.1.7 -> 3.1.9)
+
+### Version [0.0.6](https://minecraft.curseforge.com/projects/acidpak/files/2361383) - December 28th, 2016
 #### Changes
 - Disabled *Irish Luck*'s Irish Dragon
 
@@ -41,9 +85,9 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - Translocators (2.1.3.47 -> 2.1.3.49)
 - VeinMiner (0.35.2 -> 0.35.3)
 
-### Version (0.0.5)[https://minecraft.curseforge.com/projects/acidpak/files/2359263] - December 22nd, 2016
+### Version [0.0.5](https://minecraft.curseforge.com/projects/acidpak/files/2359263) - December 22nd, 2016
 #### Notes
-- *FoamFix* is a mod that saves some RAM usage, testing on different setups to measure RAM savings in the pack. Please report your estimated savings on our GitHub (here)[https://github.com/xlxAciDxlx/AcidPak/issues/15]
+- *FoamFix* is a mod that saves some RAM usage, testing on different setups to measure RAM savings in the pack. Please report your estimated savings on our GitHub [here](https://github.com/xlxAciDxlx/AcidPak/issues/15)
 - *DenseOres* will be added once it adds an annotation for 1.10 compatibility
 
 #### Added
@@ -128,7 +172,7 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - Translocators (2.1.3.34 -> 2.1.3.47)
 - VeinMiner (0.34.1 -> 0.35.2)
 
-## Version (0.0.4)[https://minecraft.curseforge.com/projects/acidpak/files/2353408] - December 7th, 2016
+## Version [0.0.4](https://minecraft.curseforge.com/projects/acidpak/files/2353408) - December 7th, 2016
 ### Added
 - Akashic Tome
 - CompatLayer (McJtyLib dependency)
