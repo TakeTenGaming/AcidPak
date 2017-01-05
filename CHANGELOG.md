@@ -5,7 +5,33 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 *No releases at this time.*
 
 ## 1.10.2 Releases
-### Version [0.0.7](https://minecraft.curseforge.com/projects/acidpak/files/2363500) - Work in Progress
+### Version [0.0.8](https://minecraft.curseforge.com/projects/acidpak/files/2364481) - January 5th, 2017
+#### Changes
+- All Pam's HarvestCraft seeds can now drop from grass
+- Blacklisted all manual/guide mod items from spawning in LootBags (hopefully this is actually fixed now -_-)
+- ProjectE now uses pregenerated EMC values on startup, which should slightly decrease client/server start time
+- All ProjectE EMC values have been regenerated
+- ProjectE no longer outputs messages regarding exploits
+- Disabled retrogen of OreSpawn ores
+- Added Draconium Ore from Draconic Evolution to OreSpawn configs
+- DatMod dusts can now be smelted in a Furnace, Alloy Smelter, etc
+
+#### Added
+- Simply Jetpacks 2
+
+#### Updated
+- ArmorPlus (8.2.4.5 -> 8.3.0.1)
+- Chickens (4.2 -> 4.2.2)
+- DatMod (1.5.0 -> 1.5.1)
+- Draconic Evolution (2.0.5.154 -> 2.0.6.157)
+- Industrial Craft 2 (2.6.128 -> 2.6.142)
+- Iron Backpacks (2.1.21 -> 2.2.22)
+- LootBags (2.3.0 -> 2.3.2)
+- Refined Storage (1.2.14 -> 1.2.15)
+- Reliquary (1.3.3.615 -> 1.3.3.620)
+- RFTools Dimensions (4.51 -> 4.52)
+
+### Version [0.0.7](https://minecraft.curseforge.com/projects/acidpak/files/2363500) - January 2nd, 2017
 #### Changes
 - Disabled *Biomes O Plenty* panorama background
 - Tweaked *Lycanite's Mobs* configs to hopefully allow for more vanilla mob spawns
