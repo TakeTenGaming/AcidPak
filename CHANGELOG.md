@@ -5,6 +5,10 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 *No releases at this time.*
 
 ## 1.10.2 Releases
+### Version [0.0.9.1](https://minecraft.curseforge.com/projects/acidpak/files/2364887) - January 6th, 2017
+### Added
+- Simple Void World
+
 ### Version [0.0.9](https://minecraft.curseforge.com/projects/acidpak/files/2364882) - January 5th, 2017
 #### Changes
 - Disabled a bunch of Loot Bag items
