@@ -5,6 +5,30 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 *No releases at this time.*
 
 ## 1.10.2 Releases
+### Version [0.0.9](https://minecraft.curseforge.com/projects/acidpak/files/2364882) - January 5th, 2017
+#### Changes
+- Disabled a bunch of Loot Bag items
+  - Bronze Armor (IC2)
+  - Broken Tools (Forestry)
+  - Flippers (Biomes O Plenty)
+  - Wading Boots (Biomes O Plenty)
+  - Mining Backpack (Forestry)
+  - Pickaxe Kit (Forestry)
+  - Shovel Kit (Forestry)
+- Set all Lycanite Mobs to not overwrite vanilla mobs to hopefully allow more vanilla mobs to spawn.. Hopefully..
+
+#### Added
+- Simple Void World
+
+#### Updated
+- Chisels & Bits (12.9 -> 12.10)
+- Cyclic (1.9.10 -> 1.9.12)
+- ElecCore (1.6.360 -> 1.6.378)
+- JourneyMap (5.4.0 -> 5.4.2)
+- Prefab (1.1.1.6 -> 1.1.1.7)
+- RebornCore (2.8.5.79 -> 2.12.1.96)
+- RFTools (5.75 -> 5.76)
+
 ### Version [0.0.8](https://minecraft.curseforge.com/projects/acidpak/files/2364481) - January 5th, 2017
 #### Changes
 - All Pam's HarvestCraft seeds can now drop from grass
