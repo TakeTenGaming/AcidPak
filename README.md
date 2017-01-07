@@ -2,7 +2,7 @@
 A repository for tracking issues and changes for my modpack, *AcidPak*.
 
 ## Latest Versions
-**1.10.2** - ***[0.0.9.1](https://minecraft.curseforge.com/projects/acidpak/files/2364887)***, released *January 6th, 2017*
+**1.10.2** - ***[0.0.9.2](https://minecraft.curseforge.com/projects/acidpak/files/2365047)***, released *January 6th, 2017*
 
 **1.11** - *No version released at this time*
 

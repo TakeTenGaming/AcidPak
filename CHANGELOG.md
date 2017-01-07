@@ -5,6 +5,12 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 *No releases at this time.*
 
 ## 1.10.2 Releases
+### Version [0.0.9.2](https://minecraft.curseforge.com/projects/acidpak/files/2365047) - January 6th, 2017
+### Updated
+- CompatLayer (0.1.6 -> 0.1.7)
+- ElecCore (1.6.378 -> 1.6.379)
+- Irish Luck (0.3.7 -> 0.3.8)
+
 ### Version [0.0.9.1](https://minecraft.curseforge.com/projects/acidpak/files/2364887) - January 6th, 2017
 ### Added
 - Simple Void World
