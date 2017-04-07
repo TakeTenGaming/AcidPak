@@ -1,18 +1,134 @@
 # Change Log
-All notable changes to both the *1.10.2* and *1.11* versions of the modpack will be documented here.
+All notable changes to the modpack will be documented here.
 
-## 1.11 Releases
-*No releases at this time.*
+### Version [0.0.9.3](https://minecraft.curseforge.com/projects/acidpak/files/2403649) - April 6th, 2017
+This release has a *ton* of changes. Consider this what is hopefully going to be one of the last few updates before 1.0.0 drops! Get hype!
 
-## 1.10.2 Releases
+#### Changes
+- BetterFPS has been removed. If your FPS is lower and you want it back, let me know in the comments or feel free to add the mod in yourself.
+- Changed Forge config to setup Chunk Updates off the main thread. If you have world rendering issues, go into `config/forge.cfg` and change `B:alwaysSetupTerrainOffThread=true` to `B:alwaysSetupTerrainOffThread=false` or let us know on GitHub and we'll change the default option
+- Placemod has been removed. I originally had plans to include structures for it, but I'm too busy and don't have the time to do all the work that entails on my own.
+- The changelog says "EnderTanks" has been removed, and it has. However, EnderStorage is still in and provides Ender Tanks. This only effects you if you used Ender Tanks from the actual EnderTanks mod, not EnderStorage.
+- Corrected LootBag config, should actually disable specified items now
+- Disabled the crafting of all Inventory Pets, so they can now only be found by exploring the world. Good luck!
+- Configured Refined Storage to use a little more energy to balance things out
+- Configured Simple Void World to be eternally day
+- Cleaned up InventoryPets config
+- A bit of changes were made to CoFH configs, too many to list
+- Cleaned up EnderIO config file
+
+#### Added
+- CoFH Core
+- Hatchery
+- Ore Excavation
+- TenCore
+- Thermal Expansion
+- Thermal Foundation
+
+#### Removed
+- Akashic Tome
+- ArmorPlus
+- AutoRegLib
+- Base Metals
+- BetterFPS
+- Custom Mob Spawner
+- Cyberware
+- EnderTanks
+- Fullscreen Windowed (Borderless)
+- IndustrialCraft
+- Lycanite's Mobs
+- MMD OreSpawn
+- Mo' Creatures
+- Placemod
+- ShetiPhianCore
+- SokratisCore
+- TheDragonLib
+- Veinminer
+
+#### Updated
+- Actually Additions (r97 -> r105)
+- AE2 Stuff (0.6.0.7 -> 0.6.0.9)
+- AppleCore (2.1.0 -> 2.1.2)
+- Baubles (1.3.8 -> 1.3.9)
+- BdLib (1.12.2.19 -> 1.12.4.24)
+- BetterAchievements (0.3.2.39 -> 0.3.3.10)
+- Biome Tweaker (2.1.230 -> 2.3.239)
+- Biomes O Plenty (5.0.0.2109 -> 5.0.0.2162)
+- Blood Magic (2.1.0-69 -> 2.1.9-78)
+- Bookshelf (1.4.3.339 -> 1.4.4.347)
+- Botania (1.9-339 -> 1.9-341)
+- Brandon's Core (2.1.3.82 -> 2.1.5.97)
+- Chickens (4.2.2 -> 4.3.2)
+- Chisel (0.0.7.7 -> 0.0.9.15)
+- Chisels & Bits (12.10 -> 12.12)
+- CodeChicken Core (2.4.0.100 -> 2.4.1.102)
+- CodeChicken Lib (2.5.1.185 -> 2.5.7.241)
+- CompatLayer (0.1.7 -> 0.2.5)
+- Cyclic (1.9.12 -> 1.10.18)
+- Dark Utilities (1.1.6.103 -> 1.1.7.120)
+- DatMod (1.5.1 -> 2.0.1)
+- DecoCraft2 (2.3.6.1 -> 2.4)
+- Deep Resonance (1.4.2 -> 1.4.6)
+- Draconic Evolution (2.0.6.157 -> 2.0.9.192)
+- ElecCore (1.6.379 -> 1.7.414)
+- EnderCore (0.4.1.62-beta -> 0.4.1.65-beta)
+- EnderIO (3.1.156 -> 3.1.179)
+- Ender Storage (2.2.0.96 -> 2.2.1.103)
+- Ender Zoo (1.2.3.43 -> 1.2.3.44)
+- Environmental Tech (0.10.5h -> 0.10.6b)
+- Extra Utilities 2 (1.1.3c -> 1.3.3)
+- Extreme Reactors (0.4.5.23 -> 0.4.5.27)
+- Flux Networks (1.0.9 -> 1.2.1)
+- FoamFix (0.4.2-law -> 0.6.1-law)
+- Forestry (5.2.16.348 -> 5.2.17.369)
+- Forge (12.18.3.2202 -> 12.18.3.2254)
+- Gendustry (1.6.5.27 -> 1.6.5.30)
+- GraveStone Mod (1.5.10 -> 1.5.12)
+- Guide-API (2.0.2-45 -> 2.0.3-46)
+- Hwyla (1.8.1-B13 -> 1.8.12-B26)
+- Immersive Engineering (0.10-54 -> 0.10-57)
+- Inventory Pets (1.4.9 -> 1.4.9.3)
+- Iron Backpacks (2.2.22 -> 2.2.25)
+- JourneyMap (5.4.2 -> 5.4.6)
+- Just Enough Items (3.14.2.401 -> 3.14.7.417)
+- Just Enough Resources (0.5.8.98 -> 0.5.9.3)
+- Loot Bags (2.3.2 -> 2.3.5)
+- MalisisBlocks (4.1.3 -> 4.2.0)
+- MalisisCore (4.2.9 -> 4.4.0)
+- MalisisDoors (5.1.6 -> 5.2.0)
+- Mantle (1.1.3 -> 1.1.5)
+- McJtyLib (2.3.1 -> 2.3.11)
+- MCMultiPart (1.3.0 -> 1.4.0)
+- More Overlays (1.9 -> 1.10)
+- Mouse Tweaks (2.6.4 -> 2.8)
+- Natura (4.1.0.17 -> 4.1.0.34)
+- Not Enough Wands (1.5.3 -> 1.5.4)
+- p455w0rd's Library (1.0.3 -> 1.0.13)
+- Prefab (1.1.1.7 -> 1.1.1.11)
+- ProjectE (1.1.1B -> 1.2.0)
+- RebornCore (2.12.1.96 -> 2.13.5.136)
+- Refined Storage (1.2.16 -> 1.2.25)
+- Reliquary (1.3.3.620 -> 1.3.3.649)
+- RFTools (5.76 -> 5.91)
+- RFTools Dimensions (4.52 -> 4.55)
+- Simple Void World (1.0.0.2 -> 1.1.0.4)
+- Simply Jetpacks 2 (2.0.3.26 -> 2.1.0.39)
+- Sonar Core (3.1.9 -> 3.2.6)
+- Storage Drawers (3.5.16 -> 3.7.0)
+- Tinkers Construct (2.6.1 -> 2.6.3)
+- Translocators (2.1.3.49 -> 2.1.4.54)
+- ValkyrieLib (0.10.5e -> 0.10.6)
+- WuestUtilities (1.10.2.10 -> 1.10.2.11)
+- ZeroCore (0.0.8.2 -> 0.1.0.4)
+
 ### Version [0.0.9.2](https://minecraft.curseforge.com/projects/acidpak/files/2365047) - January 6th, 2017
-### Updated
+#### Updated
 - CompatLayer (0.1.6 -> 0.1.7)
 - ElecCore (1.6.378 -> 1.6.379)
 - Irish Luck (0.3.7 -> 0.3.8)
 
 ### Version [0.0.9.1](https://minecraft.curseforge.com/projects/acidpak/files/2364887) - January 6th, 2017
-### Added
+#### Added
 - Simple Void World
 
 ### Version [0.0.9](https://minecraft.curseforge.com/projects/acidpak/files/2364882) - January 5th, 2017
@@ -160,11 +276,11 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - MMD OreSpawn
 - p455w0rd's Library
 
-### Removed
+#### Removed
 - Cavern
 - TESLA
 
-### Changes
+#### Changes
 - Disabled undesired *Biomes O Plenty* biomes
 - Tuned *AbyssalCraft* biome weights, this should hopefully make them a lot less common
 - Disabled *Actually Additions* manual from spawning in a Loot Bag
@@ -181,7 +297,7 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - Replaced larger "Jungle" Vanilla biomes with "Quagmire" Biomes O Plenty biome
 - Improved generation weight of Biomes O Plenty "Mangrove" biome
 
-### Updated
+#### Updated
 - AbyssalCraft (1.9.3.8 -> 1.9.3.9)
 - Actually Additions (r88 -> r93)
 - Applied Energistics 2 (rv4-alpha-8 -> rv4-alpha-9)
@@ -232,21 +348,21 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - Translocators (2.1.3.34 -> 2.1.3.47)
 - VeinMiner (0.34.1 -> 0.35.2)
 
-## Version [0.0.4](https://minecraft.curseforge.com/projects/acidpak/files/2353408) - December 7th, 2016
-### Added
+### Version [0.0.4](https://minecraft.curseforge.com/projects/acidpak/files/2353408) - December 7th, 2016
+#### Added
 - Akashic Tome
 - CompatLayer (McJtyLib dependency)
 - Iron Backpacks
 - Realistic Terrain Generation
 
-### Changes
+#### Changes
 - Adjusted configs: Applied Energistics 2, Blood Magic, Cavern, Chisel & Bits, Cyberware, Cyclic Magic, EnderIO, Extra Utilities 2, Placemod, ProjectE, Realistic Terrain Generation, RebornCore, SoundFilters
 - Disabled config that made Biomes O Plenty the default terrain generator
 - Fixed VeinMiner not using Sneak key for activation
 - Blacklisted all mod books/manuals from spawning in Loot Bags
 - ProjectE now requires nether star for recipes
 
-### Updated
+#### Updated
 - Actually Additions (79 -> 88)
 - Applied Energistics (rv4-alpha-6 -> rv4-alpha-8)
 - ArmorPlus (8.2.2.3 -> 8.2.3.4)
@@ -290,11 +406,11 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - TrashSlot (6.3.6 -> 6.3.7)
 - ZeroCore (0.0.8.1 -> 0.0.8.2)
 
-## Version [0.0.3](https://minecraft.curseforge.com/projects/acidpak/files/2348454) - November 23rd, 2016
-### Note
+### Version [0.0.3](https://minecraft.curseforge.com/projects/acidpak/files/2348454) - November 23rd, 2016
+#### Note
 - *Lycanite's Mobs* has been re-enabled due to a fix release being made.
 
-### Updated
+#### Updated
 - AbyssalCraft (1.9.3.7 -> 1.9.3.8)
 - Actually Additions (75 -> 79)
 - Cavern (1.5.3 -> 1.5.4)
@@ -302,15 +418,15 @@ All notable changes to both the *1.10.2* and *1.11* versions of the modpack will
 - JustEnoughItems (3.13.3.382 -> 3.13.3.383)
 - Lycanite's Mobs (1.15.1.4 -> 1.15.1.5)
 
-## Version [0.0.2](https://minecraft.curseforge.com/projects/acidpak/files/2348023) - November 22nd, 2016
+### Version [0.0.2](https://minecraft.curseforge.com/projects/acidpak/files/2348023) - November 22nd, 2016
 This changelog is quite extensive as this update spans two entire months. Hopefully the next versions will be more frequent and less filled with ridiculously long changelogs. :P
 
-### Note
+#### Note
 - *DatMod* is my first released mod and is currently in alpha. Some things may be buggy until I get a few more releases out.
 - *Lycanite's Mobs* is currently disabled due to many casting bugs/crashes that Lycanite is aware of and is working to fix. The pack will be updated to reenable the mod once a fix is out.
 - *Placemod* will not currently generate structures as none have been included. This is intentional as I'd like to make a few of my own as well as customize the ones that generate, and possibly include fan-made submissions. See [Issue #7](https://github.com/xlxAciDxlx/AcidPak2/issues/7) for more information!
 
-### Added
+#### Added
 - AbyssalCraft
 - Actually Additions
 - Applied Energistics 2
@@ -337,7 +453,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - Translocators
 - ZeroCore
 
-### Removed
+#### Removed
 - Auto Ore Dictionary Converter
 - Baubles Stuff
 - Botania Unofficial
@@ -350,7 +466,7 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - Ruins
 - Wawla (What are We Looking At?)
 
-### Updated
+#### Updated
 - AbyssalCraft (1.9.3-pre-1 -> 1.9.3.7)
 - Actually Additions (r65 -> r75)
 - AppleCore (2.0.1 -> 2.1.0)
@@ -434,14 +550,14 @@ This changelog is quite extensive as this update spans two entire months. Hopefu
 - wuestUtilities (7 -> 10)
 - ZeroCore (0.0.8.0 -> 0.0.8.1)
 
-## Version [0.0.1](https://minecraft.curseforge.com/projects/acidpak/files/2333257) - September 30th, 2016
-### General
+### Version [0.0.1](https://minecraft.curseforge.com/projects/acidpak/files/2333257) - September 30th, 2016
+#### General
 - Initial CurseForge release
 
-### Added
+#### Added
 - Every single mod in the modpack
 
-### Updated
+#### Updated
 - Bookshelf (1.4.1.321 -> 1.4.1.322)
   - Fixed Server Crash
 - Cyclic (1.7.7 -> 1.7.8)
