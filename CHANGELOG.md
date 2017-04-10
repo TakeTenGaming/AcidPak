@@ -1,6 +1,31 @@
 # Change Log
 All notable changes to the modpack will be documented here.
 
+### Version [0.0.9.4](https://minecraft.curseforge.com/projects/acidpak/files/2405360) - April 10th, 2017
+#### Changes
+- Added DatMod's ores to the Environmental Tech Void Ore Miner
+- Removed Biomes O Plenty gems from the Void Ore Miner
+- Removed unneeded ores from the Void Ore Miner
+- Adjusted Forge's dormant chunk loading config option to hopefully reduce the pop-in/out of chunks
+- Adjusted Simply Jetpacks config to move the HUD info slightly to the right to not cover the date/time/FPS
+
+#### Updated
+- Brandon's Core (2.1.5.97 -> 2.1.6.98)
+- Cyberware (beta-0.2.6 -> beta-0.2.7)
+- Draconic Evolution (2.0.9.192 -> 2.0.10.193)
+- DecoCraft2 (2.4 -> 2.4.1)
+- EnderIO (3.1.179 -> 3.1.180)
+- ElecCore (1.7.414 -> 1.7.415)
+- Ender Storage (2.2.1.103 -> 2.2.1.106)
+- Flux Networks (1.2.1 -> 1.2.2)
+- FoamFix (0.6.1 -> 0.6.2beta4)
+- Forestry (5.2.17.369 -> 5.2.17.373)
+- Forge (12.18.3.2254 -> 12.18.3.2281)
+- Hwyla (1.8.12-B26 -> 1.8.13-B27)
+- LootBags (2.3.5 -> 2.3.7a)
+- Storage Drawers (3.7.0 -> 3.7.1)
+- Translocators (2.1.4.54 -> 2.1.4.55)
+
 ### Version [0.0.9.3](https://minecraft.curseforge.com/projects/acidpak/files/2403649) - April 6th, 2017
 This release has a *ton* of changes. Consider this what is hopefully going to be one of the last few updates before 1.0.0 drops! Get hype!
 
