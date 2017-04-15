@@ -1,6 +1,32 @@
 # Change Log
 All notable changes to the modpack will be documented here.
 
+### Version [0.0.9.5](https://minecraft.curseforge.com/projects/acidpak/files/2407282) - April 15th, 2017
+This version is a performance improvement and bug fix release. Things should be a bit more tidy and speedy with this release!
+
+#### Changes
+- Changed Simply Jetpacks 2 config to better align the HUD information when wearing a jetpack
+- Configured Refined Storage to use quite a bit more energy to balance things out
+- Configured Refined Storage's wireless transmitter to be upgraded by 10 blocks per upgrade rather than 8
+- Changed ProjectE to use a file for EMC values rather than configuring them each startup, should ever so slightly improve load times
+
+#### Added
+- Baubles Stuff
+
+#### Removed
+- Forestry
+- Gendustry
+- Just Enough Forestry Bees (JEFB)
+
+#### Updated
+- Chisel (0.0.9.15 -> 0.0.10.19)
+- Draconic Evolution (2.0.10.193 -> 2.0.10.199)
+- Extra Utilities 2 (1.3.3 -> 1.4)
+- Extreme Reactors (0.4.5.27 -> 0.4.5.28)
+- More Overlays (1.10 -> 1.11)
+- RFTools (5.91 -> 5.92)
+- ZeroCore (0.1.0.4 -> 0.1.0.5)
+
 ### Version [0.0.9.4](https://minecraft.curseforge.com/projects/acidpak/files/2405360) - April 10th, 2017
 #### Changes
 - Added DatMod's ores to the Environmental Tech Void Ore Miner
