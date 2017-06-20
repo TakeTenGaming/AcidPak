@@ -1,5 +1,0 @@
-{item:minecraft:wheat_seeds,1,0 - enchantment1:0,1 - enchantment2:3,1 - enchantment3:6,1 - enchantment4:34,1 - enchantment5:32,1 - name:OP Seed}
-{item:minecraft:baked_potato,1,0 - enchantment1:20,10 - name:Burnt Potato}
-{item:minecraft:poisonous_potato,1,0 - enchantment1:32,10 - name:Tastes Good}
-{item:minecraft:map,1,0 - enchantment1:48,5 - name:GPS}
-{item:minecraft:cookie,1,0 - enchantment1:35,10 - name:Let your frown be your umbrella}

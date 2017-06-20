@@ -1,9 +1,6 @@
 # AcidPak
-A repository for tracking issues and changes for our modpack, *AcidPak*.
-
-## Latest Version
-- ***[0.0.9.5](https://minecraft.curseforge.com/projects/acidpak/files/2407282)***, released *April 15th, 2017*
+A repository for tracking issues and changes for our modpack, *AcidPak v2*.
 
 ## Helpful Links
-- [Issues](https://github.com/xlxAciDxlx/AcidPak/issues)
-- [Changelog](https://github.com/xlxAciDxlx/AcidPak/blob/CHANGELOG.md)
+- [Changelog](https://github.com/TakeTenGaming/AcidPak/blob/CHANGELOG.md)
+- [Issues](https://github.com/TakeTenGaming/AcidPak/issues)

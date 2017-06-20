@@ -1,3 +1,0 @@
-#BetterFps Config
-#Fri Jan 06 13:16:37 EST 2017
-algorithm=rivens-full
