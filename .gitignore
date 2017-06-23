@@ -14,5 +14,8 @@ config/biomesoplenty/biomes/Put biome config files here
 # Ignore BiomeTweaker output files, only needed for development
 config/BiomeTweaker/output/*
 
-# Ignore JEI internal files
+# Ignore JustEnoughItems internal files
 config/JEI/worldSettings.cfg
+
+# Ignore old JustEnoughResources files
+config/jeresources/world-gen-old-*
