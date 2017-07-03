@@ -1,126 +1,5 @@
 {
 	"populate": {
-
-		"dirt": {
-			"distribution": "uniform",
-			"generator": {
-				"block": "dirt",
-				"material": "minecraft:stone",
-				"cluster-size": 33
-			},
-			"cluster-count": 10,
-			"min-height": 0,
-			"max-height": 256,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
-
-		"gravel": {
-			"distribution": "uniform",
-			"generator": {
-				"block": "gravel",
-				"material": "minecraft:stone",
-				"cluster-size": 33
-			},
-			"cluster-count": 8,
-			"min-height": 0,
-			"max-height": 256,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
-
-		"diorite": {
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "stone",
-					"properties": {
-						"variant": "diorite"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 33
-			},
-			"cluster-count": 10,
-			"min-height": 0,
-			"max-height": 80,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
-
-		"granite": {
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "stone",
-					"properties": {
-						"variant": "granite"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 33
-			},
-			"cluster-count": 10,
-			"min-height": 0,
-			"max-height": 80,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
-
-		"andesite": {
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "stone",
-					"properties": {
-						"variant": "andesite"
-					}
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 33
-			},
-			"cluster-count": 10,
-			"min-height": 0,
-			"max-height": 80,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
-
 		"coal": {
 			"distribution": "uniform",
 			"generator": {
@@ -141,7 +20,6 @@
 				]
 			}
 		},
-
 		"iron": {
 			"distribution": "uniform",
 			"generator": {
@@ -162,7 +40,6 @@
 				]
 			}
 		},
-
 		"gold": {
 			"distribution": "uniform",
 			"generator": {
@@ -183,7 +60,6 @@
 				]
 			}
 		},
-
 		"redstone": {
 			"distribution": "uniform",
 			"generator": {
@@ -204,7 +80,6 @@
 				]
 			}
 		},
-
 		"diamond": {
 			"distribution": "uniform",
 			"generator": {
@@ -225,7 +100,6 @@
 				]
 			}
 		},
-
 		"lapis": {
 			"distribution": "gaussian",
 			"generator": {
@@ -246,7 +120,6 @@
 				]
 			}
 		},
-
 		"mesa_gold": {
 			"enabled": false,
 			"distribution": "uniform",
@@ -285,7 +158,6 @@
 				]
 			}
 		},
-
 		"emerald": {
 			"distribution": "uniform",
 			"generator": {
@@ -302,21 +174,6 @@
 			"min-height": 4,
 			"max-height": 28,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -325,7 +182,6 @@
 				]
 			}
 		},
-
 		"silverfish": {
 			"distribution": "uniform",
 			"generator": {
@@ -342,21 +198,6 @@
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
 			"dimension": {
 				"restriction": "blacklist",
 				"value": [
@@ -365,7 +206,6 @@
 				]
 			}
 		},
-
 		"quartz": {
 			"distribution": "uniform",
 			"generator": {

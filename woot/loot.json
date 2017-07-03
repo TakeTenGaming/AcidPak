@@ -1,0 +1,7485 @@
+{
+  "woot:none:Sheep": {
+    "mob": "woot:none:Sheep",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 15,
+        "drops": [
+          {
+            "item": "minecraft:wool:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 12
+              }
+            ]
+          },
+          {
+            "item": "minecraft:mutton:0",
+            "count": 15,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 10
+              },
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:8",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:Bat": {
+    "mob": "woot:none:Bat",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 422,
+        "drops": [
+          {
+            "item": "minecraft:leather:0",
+            "count": 191,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 191
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:rabbit": {
+    "mob": "woot:none:minecraft:rabbit",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 71,
+        "drops": [
+          {
+            "item": "minecraft:rabbit:0",
+            "count": 27,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 27
+              }
+            ]
+          },
+          {
+            "item": "minecraft:cooked_rabbit:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 26,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 26
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rabbit_hide:0",
+            "count": 30,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 30
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 5
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:rabbit_hide:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rabbit:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 2,
+        "drops": [
+          {
+            "item": "minecraft:rabbit:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rabbit_hide:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:silverfish": {
+    "mob": "woot:none:minecraft:silverfish",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 59,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 16,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 16
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 42,
+        "drops": [
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 24,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 6
+              },
+              {
+                "stack_size": 1,
+                "weight": 4
+              },
+              {
+                "stack_size": 3,
+                "weight": 7
+              },
+              {
+                "stack_size": 4,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 11,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 11
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 10,
+        "drops": [
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 4
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:chicken": {
+    "mob": "woot:none:minecraft:chicken",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 100,
+        "drops": [
+          {
+            "item": "minecraft:feather:0",
+            "count": 100,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 37
+              },
+              {
+                "stack_size": 1,
+                "weight": 63
+              }
+            ]
+          },
+          {
+            "item": "minecraft:chicken:0",
+            "count": 100,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 100
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 29,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 29
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 10,
+        "drops": [
+          {
+            "item": "minecraft:feather:0",
+            "count": 10,
+            "weights": [
+              {
+                "stack_size": 5,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 4,
+                "weight": 3
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:chicken:0",
+            "count": 10,
+            "weights": [
+              {
+                "stack_size": 5,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 9,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:Creeper": {
+    "mob": "woot:none:Creeper",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 7,
+        "drops": [
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:ghast": {
+    "mob": "woot:none:minecraft:ghast",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 9,
+        "drops": [
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 3
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:ghast_tear:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 3,
+        "drops": [
+          {
+            "item": "minecraft:ghast_tear:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:wither_skeleton": {
+    "mob": "woot:none:minecraft:wither_skeleton",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 20,
+        "drops": [
+          {
+            "item": "minecraft:bone:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              },
+              {
+                "stack_size": 2,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "witherskelefix:fragment:0",
+            "count": 20,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 20
+              }
+            ]
+          },
+          {
+            "item": "minecraft:coal:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 12
+              }
+            ]
+          },
+          {
+            "item": "extrautils2:ingredients:10",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "tconstruct:materials:17",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 9,
+        "drops": [
+          {
+            "item": "minecraft:coal:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 3
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:skull:1",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "extrautils2:ingredients:10",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "witherskelefix:fragment:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 3
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 7,
+        "drops": [
+          {
+            "item": "minecraft:coal:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 4
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "darkutils:material:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "extrautils2:ingredients:10",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 5,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "witherskelefix:fragment:0",
+            "count": 7,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "tconstruct:materials:17",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:stone_sword",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:mekanism:babyskeleton": {
+    "mob": "woot:none:mekanism:babyskeleton",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 288,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 200,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 104
+              },
+              {
+                "stack_size": 1,
+                "weight": 96
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 193,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 102
+              },
+              {
+                "stack_size": 1,
+                "weight": 91
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 61,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 61
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 3,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:ZombieVillager": {
+    "mob": "woot:none:ZombieVillager",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 3,
+        "drops": [
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:blaze": {
+    "mob": "woot:none:minecraft:blaze",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 26,
+        "drops": [
+          {
+            "item": "minecraft:blaze_rod:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 12
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 32,
+        "drops": [
+          {
+            "item": "minecraft:blaze_rod:0",
+            "count": 30,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 12
+              },
+              {
+                "stack_size": 1,
+                "weight": 15
+              },
+              {
+                "stack_size": 3,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 19,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 2,
+                "weight": 5
+              },
+              {
+                "stack_size": 4,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 51,
+        "drops": [
+          {
+            "item": "minecraft:blaze_rod:0",
+            "count": 47,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 11
+              },
+              {
+                "stack_size": 2,
+                "weight": 16
+              },
+              {
+                "stack_size": 1,
+                "weight": 15
+              },
+              {
+                "stack_size": 4,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 37,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 9
+              },
+              {
+                "stack_size": 1,
+                "weight": 8
+              },
+              {
+                "stack_size": 5,
+                "weight": 8
+              },
+              {
+                "stack_size": 4,
+                "weight": 5
+              },
+              {
+                "stack_size": 3,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 14,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 14
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:Cow": {
+    "mob": "woot:none:Cow",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 18,
+        "drops": [
+          {
+            "item": "minecraft:leather:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 7
+              },
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "minecraft:beef:0",
+            "count": 18,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 5
+              },
+              {
+                "stack_size": 2,
+                "weight": 11
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:Slime": {
+    "mob": "woot:none:Slime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 11,
+        "drops": [
+          {
+            "item": "minecraft:slime_ball:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 4
+              },
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:endermite": {
+    "mob": "woot:none:minecraft:endermite",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 27,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 35,
+        "drops": [
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 15,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 7
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 7,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:zombie_villager": {
+    "mob": "woot:none:minecraft:zombie_villager",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 60,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 46,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 22
+              },
+              {
+                "stack_size": 1,
+                "weight": 24
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:dye:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 5,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:ocelot": {
+    "mob": "woot:none:minecraft:ocelot",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:Pig": {
+    "mob": "woot:none:Pig",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 12,
+        "drops": [
+          {
+            "item": "minecraft:porkchop:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 6
+              },
+              {
+                "stack_size": 3,
+                "weight": 5
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 7,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:quark:pirate": {
+    "mob": "woot:none:quark:pirate",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 10,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 4
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "quark:pirate_hat:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:iron_sword",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 12,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 2,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 3
+              },
+              {
+                "stack_size": 4,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 11,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 8
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:iron_sword",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 5
+              },
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "quark:pirate_hat:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:tconstruct:blueslime": {
+    "mob": "woot:none:tconstruct:blueslime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 59,
+        "drops": [
+          {
+            "item": "tconstruct:edible:1",
+            "count": 25,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 18
+              },
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:wolf": {
+    "mob": "woot:none:minecraft:wolf",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 4,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:magma_cube": {
+    "mob": "woot:none:minecraft:magma_cube",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 40,
+        "drops": [
+          {
+            "item": "minecraft:magma_cream:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 40,
+        "drops": [
+          {
+            "item": "minecraft:magma_cream:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 4
+              },
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 4,
+        "drops": [
+          {
+            "item": "minecraft:magma_cream:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:Zombie": {
+    "mob": "woot:none:Zombie",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 43,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 26,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 10
+              },
+              {
+                "stack_size": 2,
+                "weight": 16
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:Guardian": {
+    "mob": "woot:none:Guardian",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:prismarine_crystals:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:Chicken": {
+    "mob": "woot:none:Chicken",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 21,
+        "drops": [
+          {
+            "item": "minecraft:chicken:0",
+            "count": 21,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 21
+              }
+            ]
+          },
+          {
+            "item": "minecraft:feather:0",
+            "count": 21,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 14
+              },
+              {
+                "stack_size": 2,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:randomthings:spirit": {
+    "mob": "woot:none:randomthings:spirit",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 47,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:witch": {
+    "mob": "woot:none:minecraft:witch",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 11,
+        "drops": [
+          {
+            "item": "minecraft:glass_bottle:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:sugar:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:stick:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:redstone:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "quark:witch_hat",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 4,
+        "drops": [
+          {
+            "item": "minecraft:sugar:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:glowstone_dust:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 10,
+        "drops": [
+          {
+            "item": "minecraft:sugar:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:glowstone_dust:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:redstone:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:stick:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:glass_bottle:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:zombie_pigman": {
+    "mob": "woot:none:minecraft:zombie_pigman",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 41,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 12
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gold_nugget:0",
+            "count": 16,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 16
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 27,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 27
+              }
+            ]
+          },
+          {
+            "item": "minecraft:golden_sword",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 2,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gold_nugget:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 33,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 31,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 3
+              },
+              {
+                "stack_size": 1,
+                "weight": 11
+              },
+              {
+                "stack_size": 2,
+                "weight": 11
+              },
+              {
+                "stack_size": 3,
+                "weight": 6
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gold_nugget:0",
+            "count": 32,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 10
+              },
+              {
+                "stack_size": 3,
+                "weight": 9
+              },
+              {
+                "stack_size": 4,
+                "weight": 4
+              },
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 24,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 6
+              },
+              {
+                "stack_size": 1,
+                "weight": 6
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 5,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 6
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 10,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 10
+              }
+            ]
+          },
+          {
+            "item": "minecraft:golden_sword",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gold_ingot:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:spider": {
+    "mob": "woot:none:minecraft:spider",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 218,
+        "drops": [
+          {
+            "item": "minecraft:string:0",
+            "count": 143,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 69
+              },
+              {
+                "stack_size": 2,
+                "weight": 74
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 55,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 55
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 48,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 48
+              }
+            ]
+          },
+          {
+            "item": "minecraft:web:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 6
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 19,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 12
+              },
+              {
+                "stack_size": 2,
+                "weight": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 39,
+        "drops": [
+          {
+            "item": "minecraft:string:0",
+            "count": 38,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 14
+              },
+              {
+                "stack_size": 1,
+                "weight": 13
+              },
+              {
+                "stack_size": 3,
+                "weight": 9
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 28,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 15
+              },
+              {
+                "stack_size": 1,
+                "weight": 11
+              },
+              {
+                "stack_size": 3,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 25,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 7
+              },
+              {
+                "stack_size": 1,
+                "weight": 5
+              },
+              {
+                "stack_size": 2,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 10
+              }
+            ]
+          },
+          {
+            "item": "minecraft:web:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 61,
+        "drops": [
+          {
+            "item": "minecraft:string:0",
+            "count": 60,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 19
+              },
+              {
+                "stack_size": 5,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 15
+              },
+              {
+                "stack_size": 1,
+                "weight": 10
+              },
+              {
+                "stack_size": 4,
+                "weight": 14
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 48,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 12
+              },
+              {
+                "stack_size": 1,
+                "weight": 22
+              },
+              {
+                "stack_size": 3,
+                "weight": 10
+              },
+              {
+                "stack_size": 4,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 43,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 13
+              },
+              {
+                "stack_size": 3,
+                "weight": 8
+              },
+              {
+                "stack_size": 5,
+                "weight": 6
+              },
+              {
+                "stack_size": 4,
+                "weight": 9
+              },
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "minecraft:web:0",
+            "count": 17,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 6
+              },
+              {
+                "stack_size": 5,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 11,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 11
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:skeleton": {
+    "mob": "woot:none:minecraft:skeleton",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 882,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 599,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 312
+              },
+              {
+                "stack_size": 2,
+                "weight": 287
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 197,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 197
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 578,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 306
+              },
+              {
+                "stack_size": 2,
+                "weight": 272
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bow",
+            "count": 29,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 29
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 15,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 7
+              },
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 58,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 51,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 22
+              },
+              {
+                "stack_size": 1,
+                "weight": 18
+              },
+              {
+                "stack_size": 3,
+                "weight": 8
+              },
+              {
+                "stack_size": 4,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 55,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 19
+              },
+              {
+                "stack_size": 4,
+                "weight": 4
+              },
+              {
+                "stack_size": 1,
+                "weight": 16
+              },
+              {
+                "stack_size": 2,
+                "weight": 16
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 30,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 8
+              },
+              {
+                "stack_size": 3,
+                "weight": 5
+              },
+              {
+                "stack_size": 1,
+                "weight": 9
+              },
+              {
+                "stack_size": 4,
+                "weight": 8
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 18,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 18
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bow",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:golden_boots",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:golden_leggings",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 57,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 56,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              },
+              {
+                "stack_size": 3,
+                "weight": 18
+              },
+              {
+                "stack_size": 2,
+                "weight": 16
+              },
+              {
+                "stack_size": 4,
+                "weight": 10
+              },
+              {
+                "stack_size": 5,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 55,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 19
+              },
+              {
+                "stack_size": 2,
+                "weight": 13
+              },
+              {
+                "stack_size": 1,
+                "weight": 10
+              },
+              {
+                "stack_size": 5,
+                "weight": 7
+              },
+              {
+                "stack_size": 4,
+                "weight": 6
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 43,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 8
+              },
+              {
+                "stack_size": 3,
+                "weight": 9
+              },
+              {
+                "stack_size": 2,
+                "weight": 9
+              },
+              {
+                "stack_size": 1,
+                "weight": 15
+              },
+              {
+                "stack_size": 5,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bow",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 11,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 11
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:enderzoo:fallenknight": {
+    "mob": "woot:none:enderzoo:fallenknight",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 111,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 73,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 38
+              },
+              {
+                "stack_size": 2,
+                "weight": 35
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 75,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 38
+              },
+              {
+                "stack_size": 2,
+                "weight": 37
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 22,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 22
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 8,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 4
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 3
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:cave_spider": {
+    "mob": "woot:none:minecraft:cave_spider",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 5,
+        "drops": [
+          {
+            "item": "minecraft:string:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:spider_eye:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:web:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:enderzoo:concussioncreeper": {
+    "mob": "woot:none:enderzoo:concussioncreeper",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 14,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "enderzoo:enderfragment:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "enderzoo:confusingdust:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 10,
+        "drops": [
+          {
+            "item": "enderzoo:confusingdust:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 12
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "enderzoo:enderfragment:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:enderman": {
+    "mob": "woot:none:minecraft:enderman",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 113,
+        "drops": [
+          {
+            "item": "minecraft:ender_pearl:0",
+            "count": 59,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 59
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 32,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 32
+              }
+            ]
+          },
+          {
+            "item": "minecraft:dirt:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:stone:0",
+            "count": 7,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "minecraft:grass:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:sand:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:stonebrick:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "rftoolsdim:dimlet_parcel:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gravel:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:redstone_ore:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 20,
+        "drops": [
+          {
+            "item": "minecraft:grass:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:ender_pearl:0",
+            "count": 17,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 9
+              },
+              {
+                "stack_size": 1,
+                "weight": 7
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 11,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 4
+              },
+              {
+                "stack_size": 4,
+                "weight": 4
+              },
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "rftoolsdim:dimlet_parcel:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:sand:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:ladder:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 12,
+        "drops": [
+          {
+            "item": "minecraft:netherrack:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 6,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:ender_pearl:0",
+            "count": 11,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 5
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:gravel:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "rftoolsdim:dimlet_parcel:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:enderzoo:witherwitch": {
+    "mob": "woot:none:enderzoo:witherwitch",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 2,
+        "drops": [
+          {
+            "item": "minecraft:splash_potion:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 2,
+        "drops": [
+          {
+            "item": "enderzoo:witheringdust:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:splash_potion:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:cow": {
+    "mob": "woot:none:minecraft:cow",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 154,
+        "drops": [
+          {
+            "item": "minecraft:beef:0",
+            "count": 154,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 50
+              },
+              {
+                "stack_size": 1,
+                "weight": 46
+              },
+              {
+                "stack_size": 2,
+                "weight": 58
+              }
+            ]
+          },
+          {
+            "item": "minecraft:leather:0",
+            "count": 100,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 46
+              },
+              {
+                "stack_size": 1,
+                "weight": 54
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 42,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 42
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:leather:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:beef:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 9,
+        "drops": [
+          {
+            "item": "minecraft:leather:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:beef:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 3
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 7,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:quark:dweller": {
+    "mob": "woot:none:quark:dweller",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 6,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:torch:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:pig": {
+    "mob": "woot:none:minecraft:pig",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 81,
+        "drops": [
+          {
+            "item": "minecraft:porkchop:0",
+            "count": 80,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 28
+              },
+              {
+                "stack_size": 3,
+                "weight": 27
+              },
+              {
+                "stack_size": 2,
+                "weight": 25
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 21,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 21
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:cooked_porkchop:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 5,
+        "drops": [
+          {
+            "item": "minecraft:porkchop:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 3
+              },
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:sheep": {
+    "mob": "woot:none:minecraft:sheep",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 179,
+        "drops": [
+          {
+            "item": "minecraft:wool:0",
+            "count": 144,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 144
+              }
+            ]
+          },
+          {
+            "item": "minecraft:mutton:0",
+            "count": 179,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 88
+              },
+              {
+                "stack_size": 2,
+                "weight": 91
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:8",
+            "count": 18,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 18
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 44,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 44
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 3
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:15",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:7",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:12",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 4,
+        "drops": [
+          {
+            "item": "minecraft:wool:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "minecraft:mutton:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 3
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 8,
+        "drops": [
+          {
+            "item": "minecraft:wool:15",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:mutton:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 4,
+                "weight": 2
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 7,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 4
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:wool:12",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:enderzoo:fallenmount": {
+    "mob": "woot:none:enderzoo:fallenmount",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 64,
+        "drops": [
+          {
+            "item": "minecraft:leather:0",
+            "count": 43,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 19
+              },
+              {
+                "stack_size": 2,
+                "weight": 24
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 22,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 22
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 4,
+        "drops": [
+          {
+            "item": "minecraft:leather:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:direslime": {
+    "mob": "woot:none:direslime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 15,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:Skeleton": {
+    "mob": "woot:none:Skeleton",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 32,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          },
+          {
+            "item": "minecraft:arrow:0",
+            "count": 27,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 10
+              },
+              {
+                "stack_size": 1,
+                "weight": 17
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 20,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 10
+              },
+              {
+                "stack_size": 2,
+                "weight": 10
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bow",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:air:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 0,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:creeper": {
+    "mob": "woot:none:minecraft:creeper",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 278,
+        "drops": [
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 185,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 88
+              },
+              {
+                "stack_size": 2,
+                "weight": 97
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 59,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 59
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 26,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 10
+              },
+              {
+                "stack_size": 1,
+                "weight": 16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 54,
+        "drops": [
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 52,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 16
+              },
+              {
+                "stack_size": 1,
+                "weight": 17
+              },
+              {
+                "stack_size": 3,
+                "weight": 16
+              },
+              {
+                "stack_size": 4,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 11,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 11
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 25,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 11
+              },
+              {
+                "stack_size": 2,
+                "weight": 5
+              },
+              {
+                "stack_size": 4,
+                "weight": 5
+              },
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 30,
+        "drops": [
+          {
+            "item": "minecraft:gunpowder:0",
+            "count": 30,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 7
+              },
+              {
+                "stack_size": 3,
+                "weight": 13
+              },
+              {
+                "stack_size": 4,
+                "weight": 5
+              },
+              {
+                "stack_size": 1,
+                "weight": 4
+              },
+              {
+                "stack_size": 5,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 22,
+            "weights": [
+              {
+                "stack_size": 5,
+                "weight": 3
+              },
+              {
+                "stack_size": 2,
+                "weight": 7
+              },
+              {
+                "stack_size": 1,
+                "weight": 4
+              },
+              {
+                "stack_size": 4,
+                "weight": 4
+              },
+              {
+                "stack_size": 3,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 9,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:zombie": {
+    "mob": "woot:none:minecraft:zombie",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1985,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 1342,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 692
+              },
+              {
+                "stack_size": 2,
+                "weight": 650
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 449,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 449
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 101,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 41
+              },
+              {
+                "stack_size": 1,
+                "weight": 60
+              }
+            ]
+          },
+          {
+            "item": "minecraft:iron_ingot:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:carrot:0",
+            "count": 7,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "minecraft:torch:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:potato:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 12
+              }
+            ]
+          },
+          {
+            "item": "minecraft:dirt:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:golden_boots",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:golden_leggings",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:chainmail_helmet",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:iron_shovel",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:leather_boots",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 87,
+        "drops": [
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 37,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 12
+              },
+              {
+                "stack_size": 4,
+                "weight": 11
+              },
+              {
+                "stack_size": 1,
+                "weight": 7
+              },
+              {
+                "stack_size": 2,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 83,
+            "weights": [
+              {
+                "stack_size": 4,
+                "weight": 6
+              },
+              {
+                "stack_size": 3,
+                "weight": 26
+              },
+              {
+                "stack_size": 1,
+                "weight": 19
+              },
+              {
+                "stack_size": 2,
+                "weight": 32
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 20,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 20
+              }
+            ]
+          },
+          {
+            "item": "minecraft:golden_helmet",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:iron_ingot:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:carrot:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 108,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 104,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 27
+              },
+              {
+                "stack_size": 1,
+                "weight": 20
+              },
+              {
+                "stack_size": 6,
+                "weight": 4
+              },
+              {
+                "stack_size": 7,
+                "weight": 4
+              },
+              {
+                "stack_size": 9,
+                "weight": 5
+              },
+              {
+                "stack_size": 5,
+                "weight": 8
+              },
+              {
+                "stack_size": 4,
+                "weight": 15
+              },
+              {
+                "stack_size": 11,
+                "weight": 2
+              },
+              {
+                "stack_size": 10,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 17
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 86,
+            "weights": [
+              {
+                "stack_size": 5,
+                "weight": 13
+              },
+              {
+                "stack_size": 4,
+                "weight": 17
+              },
+              {
+                "stack_size": 11,
+                "weight": 5
+              },
+              {
+                "stack_size": 8,
+                "weight": 2
+              },
+              {
+                "stack_size": 7,
+                "weight": 2
+              },
+              {
+                "stack_size": 3,
+                "weight": 15
+              },
+              {
+                "stack_size": 2,
+                "weight": 14
+              },
+              {
+                "stack_size": 6,
+                "weight": 4
+              },
+              {
+                "stack_size": 10,
+                "weight": 2
+              },
+              {
+                "stack_size": 9,
+                "weight": 3
+              },
+              {
+                "stack_size": 1,
+                "weight": 8
+              },
+              {
+                "stack_size": 12,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 23,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 23
+              }
+            ]
+          },
+          {
+            "item": "minecraft:carrot:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:potato:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 5
+              }
+            ]
+          },
+          {
+            "item": "minecraft:iron_ingot:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:leather_helmet",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:slime": {
+    "mob": "woot:none:minecraft:slime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 237,
+        "drops": [
+          {
+            "item": "minecraft:slime_ball:0",
+            "count": 125,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 63
+              },
+              {
+                "stack_size": 2,
+                "weight": 62
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 25,
+        "drops": [
+          {
+            "item": "minecraft:slime_ball:0",
+            "count": 17,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 5
+              },
+              {
+                "stack_size": 3,
+                "weight": 8
+              },
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 4,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 20,
+        "drops": [
+          {
+            "item": "minecraft:slime_ball:0",
+            "count": 14,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 3
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              },
+              {
+                "stack_size": 4,
+                "weight": 4
+              },
+              {
+                "stack_size": 3,
+                "weight": 6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:bat": {
+    "mob": "woot:none:minecraft:bat",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 11114,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 3,
+        "drops": [
+          {
+            "item": "actuallyadditions:item_misc:15",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:enderzoo:owl": {
+    "mob": "woot:none:enderzoo:owl",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:feather:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:feather:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:enderzoo:enderminy": {
+    "mob": "woot:none:enderzoo:enderminy",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 11,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          },
+          {
+            "item": "minecraft:ender_pearl:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "enderzoo:enderfragment:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:guardian": {
+    "mob": "woot:none:minecraft:guardian",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:prismarine_shard:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:prismarine_crystals:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:husk": {
+    "mob": "woot:none:minecraft:husk",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 6,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 5,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 2
+              },
+              {
+                "stack_size": 2,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:rotten_flesh:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:enderzoo:direslime": {
+    "mob": "woot:none:enderzoo:direslime",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 63,
+        "drops": [
+          {
+            "item": "minecraft:clay_ball:0",
+            "count": 61,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 61
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 44,
+        "drops": [
+          {
+            "item": "minecraft:clay_ball:0",
+            "count": 91,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 91
+              }
+            ]
+          },
+          {
+            "item": "thermalfoundation:material:771",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:minecraft:horse": {
+    "mob": "woot:none:minecraft:horse",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 25,
+        "drops": [
+          {
+            "item": "minecraft:leather:0",
+            "count": 12,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 5
+              },
+              {
+                "stack_size": 1,
+                "weight": 7
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 8,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:Squid": {
+    "mob": "woot:none:Squid",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 220,
+        "drops": [
+          {
+            "item": "minecraft:dye:0",
+            "count": 220,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 84
+              },
+              {
+                "stack_size": 2,
+                "weight": 73
+              },
+              {
+                "stack_size": 3,
+                "weight": 63
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:squid": {
+    "mob": "woot:none:minecraft:squid",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 3924,
+        "drops": [
+          {
+            "item": "minecraft:dye:0",
+            "count": 3924,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1332
+              },
+              {
+                "stack_size": 2,
+                "weight": 1258
+              },
+              {
+                "stack_size": 3,
+                "weight": 1334
+              }
+            ]
+          },
+          {
+            "item": "harvestcraft:calamarirawitem:0",
+            "count": 41,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 15
+              },
+              {
+                "stack_size": 1,
+                "weight": 26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 2,
+        "drops": [
+          {
+            "item": "minecraft:dye:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "harvestcraft:calamarirawitem:0",
+            "count": 2,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "woot:none:quark:ashen": {
+    "mob": "woot:none:quark:ashen",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 5,
+        "drops": [
+          {
+            "item": "minecraft:arrow:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bone:0",
+            "count": 4,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              },
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:bow",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 3
+              }
+            ]
+          },
+          {
+            "item": "minecraft:tipped_arrow:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:minecraft:villager": {
+    "mob": "woot:none:minecraft:villager",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 10,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "woot:none:enderzoo:withercat": {
+    "mob": "woot:none:enderzoo:withercat",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 66,
+        "drops": [
+          {
+            "item": "mysticalagriculture:inferium_essence:0",
+            "count": 17,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 3,
+        "drops": [
+          {
+            "item": "actuallyadditions:item_solidified_experience:0",
+            "count": 3,
+            "weights": [
+              {
+                "stack_size": 3,
+                "weight": 1
+              },
+              {
+                "stack_size": 1,
+                "weight": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
